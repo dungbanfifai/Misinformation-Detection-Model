@@ -1,0 +1,1553 @@
+row_id,text,label,source_dataset,sub_source,n_words,had_url,split
+fakenewsnet_005126,Travis Scott GOES OFF On Kylie Jenner Spending Splurge! Selena Gomez Shades Justin Bieber!,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002382,"Inside Julia Roberts, Danny Moder’s ‘Really Solid’ Marriage",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_012219,Pamela Anderson on her 'romantic' connection with Julian Assange,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005712,Kim & Kanye Reportedly Drop $1.5 Million On Round-The-Clock Security For Surrogate,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_008717,Mayim Bialik Responds to Harvey Weinstein Op-Ed Backlash – Variety,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021812,Jennifer Lawrence's Dating History — and What She's Said About Romance,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005761,"Kris Jenner, Jennifer Aniston, and More Stars Who Blamed Their Significant Others For Their Weight Gain",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001093,Kanye West & Kim Kardashian Are Having ‘Best Sex of their Lives’: He’s So Attracted To Her,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_019648,"Kandi Burruss Spills All the Tea About Kenya Moore's ""No Nonsense"" Husband Marc Daly",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016414,"Happy Birthday, Anna Faris! Looking Back at Her Funniest Movie Scenes Over the Years",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001312,Selena’s Hell! Gomez Goes To Rehab As Friends Fear Another Drug Relapse,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002651,Carrie Underwood NOT Trapped In Bad Marriage Trapped In Bad Marriage With Mike Fisher Despite Report,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_021374,Here's What Meghan Markle and Prince Harry Will Eat at the Royal Reception,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_016967,Here’s Exactly What You Missed in ‘Mission: Impossible – Fallout’,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001925,"Selena Gomez Isn’t Worried About Justin Bieber and Hailey Baldwin’s Engagement, So Don’t Worry About Her",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_006218,Ellen DeGeneres cuddles up to wife Portia de Rossi on Instagram,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_023033,David Bowie's ex ANGIE BOWIE gives her account of their doomed love,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005160,John Mayer Using Breakup Song To Win Katy Perry Back?: He’s Been Calling Her,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004770,Drake says he’s victim of ‘fake media story’ saying he asked woman to remove hijab,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001173,"Watch Super Bowl LII: Patriots vs Eagles, Stream live, date and time",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001827,"Skippy — Prince Harry Fears Meghan Markle Will Be ""Runaway...",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016745,Wentworth Miller is leaving the 'Arrow'-verse,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_005193,Why Meghan Markle ‘TAMED’ Prince Harry more than Cressida and Chelsy ever could,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006421,42 last-minute Mother's Day gifts that she'll actually love,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015625,Scott Disick And Sofia Richie Enjoy Rose Petal-Filled Romantic Getaway In Malibu,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_019771,Bachelor in Paradise: Taylor Nolan and Derek Peth Split,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_023061,Chrissy Teigen Photos of Kids Bathing Together,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_002041,Slimmed Down Jonah Hill is Unrecognizable While Filming With Emma Stone,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000734,WATCH FULL Ted Cruz presser on new deal with Kasich (UPDATE: PART TWO ADDED),0,fakenewsnet,politifact,14,False,val
+fakenewsnet_004461,Watch Kim Kardashian's First Interview Since Robbery On 'Ellen DeGeneres Show' (VIDEOS),1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005017,Robert Pattinson & Kristen Stewart: Is His Ex-Fiancee FKA Twigs Pissed Over Their Reunion?,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005684,Inside Scott Disick's Unique Relationship With the Kardashian Family as Kourtney's Co-Parent on Kardashians,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001929,Brad Pitt: Why I’m Walking With a Cane,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005648,L&S: Angelina Jolie plans to marry her mystery British-philanthropist boyfriend?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001916,Jennifer Garner's Trainer Launched a Wellness App That Uses Artificial Intelligence,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007526,This guy’s mug shot led to a modeling career,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008386,Celine Dion thanks fans for birthday wishes as she turns 50,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_008663,Alicia Vikander Shares Details on Her Surprise Bachelorette Party: Friends ‘Kidnapped Me!',0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_007908,Julianne Hough's Husband Makes Her 'Dream' Come True on Surprise Birthday Trip to Machu Picchu,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003766,Is Taylor Swift Kicking Kanye and Kim While They’re Down?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_022898,"Kim Kardashian receives backlash over topless photo taken by daughter, North West",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000453,Hispanic Populations Share of Wealth Likely to Increase by 2025,0,fakenewsnet,politifact,10,False,val
+fakenewsnet_005276,Mehgan James: BUSTED Lying About Rob Kardashian Relationship!,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004592,"Joel Silver Sued for Assistant Death During Jennifer Aniston, Justin Theroux Honeymoon",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015845,"These Are the Best Bangs for Every Face Shape, According to Stylists",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005559,Angelina Jolie Could Lose Primary Custody of Kids If Brad Pitt Isn't Allowed Access: Report,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021001,Today Is Troy and Gabriella's 10-Year Anniversary!,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005279,Jennifer Aniston & Justin Theroux: Headed For Divorce Because of Brad Pitt?!,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005677,Eva Longoria Using Victoria Beckham As Trainer Nutritionist To Pregnancy Weight,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_016824,Platelet Rich Plasma Vampire Facial Maine New Hampshire NH,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000809,Top Presidential Candidate 2008 Websites,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_001886,Khloe Kardashian finally opened up about Tristan Thompson after his alleged infidelity — here's a complete timeline of the cheating scandal,1,fakenewsnet,gossipcop,21,False,val
+fakenewsnet_021499,Trading Spaces' Paige Davis Talks TLC Revival and That Haircut 10 Years Later,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003272,"Why Selena Gomez's Mom Called Justin Bieber ""Satan""",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_022834,"Kenya Moore on pregnancy status: 'When I am ready to say, I will tell the world'",0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000009,Target to Discontinue Sale of Holy Bible,1,fakenewsnet,politifact,7,False,val
+fakenewsnet_003280,Scott Disick & Sofia Richie Enjoy ‘Adventurous’ Sex: More Chemistry Than He Had With Kourtney,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002208,Fights over Post-it notes? 'Secret sleepovers' with Brad? Jennifer Aniston's separation leads to bonkers tabloid tales.,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_003230,Aaron Carter Worried About Past Gay Lovers Revealing Secrets Is Fake News,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_012355,Watch a Woman Lose Her Mind After Winning $11.30 on HQ Trivia,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_022147,Malin Akerman Is Engaged to 'Sweet and Loving' Boyfriend Jack Donnelly: He 'Stole' My Heart,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002003,Anna Faris Admits She Was Jealous of Ex Chris Pratt’s Co-Star Jennifer Lawrence,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006188,Ariana Grande Shut Down Pregnancy Rumors In A Series Of Hilarious Tweets,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006056,Gwen Stefani Vs. Miranda Lambert — Which Of Blake Shelton’s Loves Has The Sexiest Looks?,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002490,Ellen DeGeneres Divorce Reports Forgotten After Gushing Over ‘Beautiful’ Wife Portia de Rossi: Marriage Salvaged For Time Being?,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_008100,BiP's Danielle Maltby Is Dating Big Brother's Paul Calafiore,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005226,Jennifer Aniston: Why I will never be a mum,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000358,LAW PASSED: All Child Support in the United States Will End by Beginning of 2018,1,fakenewsnet,politifact,15,False,val
+fakenewsnet_007930,Brandon Blackstock Net Worth,0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_022357,Inhumans (TV series),0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_007971,Kaylin Jurrjens Isn't Excited to Stay in the Lucifer Room on WAGS Atlanta: ''We Got Illuminati S--t!'',0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_021089,Clooneys make $1 million donation to fight hate groups,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001135,Brad Pitt and Jennifer Aniston's second wedding joy,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_010449,How to Watch the 2018 Golden Globes for Free,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001196,Property Brothers' Drew Scott Is Engaged to Linda Phan,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005528,Justin Bieber fan arrested for trespassing at his Los Angeles home,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006602,Carmelo Anthony Gushes Over ‘Beautiful’ Ex La La On Her Birthday In Sweet Instagram,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_010974,Are Scott Disick and Bella Thorne Dating? Also About Scott Disick’s Wild Nights Partying With Bella Thorne and Ella Ross!! – Married Biography,0,fakenewsnet,gossipcop,23,False,val
+fakenewsnet_022497,Elizabeth Hurley gives update after nephew’s stabbing: ‘He remains in great pain’,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000552,"Joni Ernst ""Promises"" Ad",0,fakenewsnet,politifact,4,False,val
+fakenewsnet_021979,How Kendall and Ariana's Makeup Artists Use Lip Liner to Fake a Fuller Pout,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_011342,Saturday Savings: Bachelorette Rachel Lindsay's LWD Is 40% Off,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004178,Amal Clooney Body-Shamed Two Months After Giving Birth To Twins,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020207,Pregnant Serena Williams poses nude for Vanity Fair cover shoot,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002200,People are freaking out that Laura Dern may have snubbed Reese Witherspoon after Emmy win,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_013685,The Royals (TV series),0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_000870,Rep. Ross: We need to get government running again,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_010500,Amal and George Clooney settle into a summer in Sardinia,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021282,Burying The Hatchet! Megyn Kelly Welcomed With Open Arms By Hoda Kotb And The 'TODAY' Show,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_017291,"Actor T.J. Miller denies accusations of sexual assault, physical violence",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011800,Dolce & Gabbana Designer Disses Victoria Beckham — On Her Birthday,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006294,Teen Choice Awards Nominations 2017: First Wave Of Nominees – Full List!,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006972,"Joseph Gordon-Levitt, Tasha McCauley Welcome Second Child",0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003782,A Timeline of Gwen Stefani & Blake Shelton's Relationship,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015578,"Taylor Swift's 'Reputation': All the Kimye, Joe Alwyn, Calvin Harris, and Tom Hiddleston References",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004967,This Is Why Caitlyn Jenner Kept Her Gender Reassignment Surgery Private from Kris Jenner,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000703,Justices 1789 to Present,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_005462,"Despite Report — Blogs, Pictures, and more on WordPress",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_019617,Amy Robach Replaces Elizabeth Vargas on 20/20,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_018048,Carrie Underwood Brings Down The House With National Anthem at NHL Playoff Game Sounds Like Nashville,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_008585,Beatrice and Eugenie,0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_017724,Halle Berry Crushes James Corden in Rap Battle: Watch,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_017639,Jessie James Decker Catches Married Woman Sending Husband Nudes!,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003912,"War Games? Brad Thinks Angelina’s Iraq Trip A Big Publicity Stunt, Says Source",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003344,Zayn Malik: How He Explained New Text Messages From Ex Perrie To Gigi Hadid,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003316,Paris Fashion Week Attendees Blame Kim Kardashian For Her Robbery,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010395,"Meghan Markle’s $2,200 Roland Mouret Dress Before Royal Wedding",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_009356,Selena Gomez Shows Off In Sheer Dress On Date Night With The Weeknd,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001214,Adam Sandler cuts a relaxed figure as he hangs out with his family,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002759,Comment on Jennifer Aniston Is Reportedly Heartbroken Over Justin Theroux’s Plans To Move In With Emma Stone by Jackie,1,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_007216,Luann de Lesseps Isn't Ready to Patch Things Up with Dorinda Medley Yet: 'I'm Still Scarred',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_003293,"Miley Cyrus - Latest News, Photos and Videos",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001845,David Letterman Won’t Give Up His Beard,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005494,Rob Kardashian wants Tristan Thompson 'cut off' from family,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015264,"The 95 most candid photos of Prince Harry, Meghan Markle, Prince William, and Kate Middleton from 2017 and 2018",0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_008051,Ryan Reynolds Responds to Blake Lively Marriage Rumors: 'I Could Use a Little Me Time',0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_017285,"Sebastian Stan Says I, Tonya Co-Star Allison Janney ”Definitely Deserves” an Oscar Nomination",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001876,"Lindsay Lohan’s parents plan to sue Sen. John Kennedy over ‘slanderous comments’ before Congress, report says",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_014336,RHONJ: Danielle Staub Gets Engaged for the 20th Time,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005772,Brad Pitt's genius new love Neri Oxman steps out in all black outfit,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_011357,Brooklyn Nine-Nine saved by NBC: 2018’s TV cancellations and renewals,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000162,Kushner And Wife Ivanka Trump Were Tossed Out Of The White House — And Donald Is Cutting Them Out Of His Will!,1,fakenewsnet,politifact,22,False,val
+fakenewsnet_005489,"The Kardashians' Reactions To Khloe Kardashian's Baby Girl Are So, So Cute",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005796,James Corden Apologizes for Harvey Weinstein Jokes at amfAR Gala: ''I Am Truly Sorry'',1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005522,Angelina Jolie Emotional Over Brad Pitt Dating Neri Oxman Rumors — She Can’t Handle It,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001072,He’s Hired! Ben Affleck Enlists Best Friend Matt Damon To Be His Life Coach,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005668,Brad Pitt Is Spending Time With Kids While Filming New Movie With Leonardo DiCaprio,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001786,Katie Couric Reveals Whether She Would Return to Host the 'Today' Show,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000299,‘NASA Confirms’ 15 Days Of Darkness Coming This Month,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_010673,Pregnant Khloe Kardashian shows off growing baby bump as she works out with sister Kourtney,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000213,UF requests to cancel Rivalry game against FSU,1,fakenewsnet,politifact,8,False,val
+fakenewsnet_011195,Ryan Edwards and Wife Mackenzie Quitting Teen Mom OG,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_010687,Mila Kunis surprised her parents with a home makeover and their reaction is the best,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005709,Lady Gaga NOT Dating Christian Carino To Help Acting Career Despite Claim,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017720,Tori Spelling dresses her children and baby bump in homemade Halloween costumes,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_021264,Goodbye Dr. ...! Find Out Which Grey's Anatomy Character Says 'I Quit' in Fiery Season 13 Finale,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_023100,"CW Orders Charmed Reboot, Vampire Diaries Spinoff, & More",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001991,Travis Scott Is Starting to Doubt If He's Stormi's Dad Amid Tim Chung Paternity Rumors (EXCLUSIVE),1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001112,Marry Me! Justin Bieber To Propose To Selena Over Christmas,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_015886,22 Questions About the ‘Jersey Shore Family Vacation’ Premiere,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004960,Selena Gomez Still Believes She Can Repair Relationship with Mom Mandy: It’s A Process,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_006039,Why Kate Middleton DIDN’T join Prince William in Israel - despite growing up in Jordan,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_023009,Ed Westwick Denies Rape Allegations of Aurélie Wynn,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018271,"XXXTentacion's Baby Mama is His GF, He Knew About Pregnancy",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004330,Judge Dismisses DJ David Mueller’s Case Against Taylor Swift,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000854,Individual Income Tax Returns Publication 1304 (Complete Report),0,fakenewsnet,politifact,8,False,val
+fakenewsnet_011768,The Arrangement's Terence Anderson Hallucinates an Alternate Reality After Taking Psychedelic Mushrooms: Watch the Sneak Peek!,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_018534,"RHOBH’s Erika Girardi Admits She Left A Lot Of Personal Details Out Of Her Book, Plus She Talks Real Housewives Sex Lives!",0,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_010742,Tomb Raider Review Roundup: Did Alicia Vikander Win Over Critics With Reboot?,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_023118,Brandi Glanville shares photo with LeAnn Rimes after years of feuding,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_017909,Pink Brought Her Daughter To The CMA Awards & They're The Best Couple On The Red Carpet,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_012452,Miss USA Kara McCullough Beauty Favorites,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_002879,"What is Kanye West’s net worth, what does his name mean, what are his hit songs and how did he meet Kim Kardashian?",1,fakenewsnet,gossipcop,23,False,val
+fakenewsnet_020774,"Duff Goldman, Paula Deen, Graham Elliot and More Celebrity Chefs' Weight Loss Journeys",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003396,"Ariel Winter Slams Media, Body Shamers In Twitter Rant",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005556,"Tyga Insists His Age Difference With Kylie Jenner Doesn't Matter, Talks Blac Chyna and Not Dealing in Hate",1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_003268,Julia Roberts Makes a Desperate — and Expensive! — Move to Save Her Marriage With Danny Moder (EXCLUSIVE),1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_005519,Morning Mayhem! Kelly ‘Ready To Walk’ After Ryan’s Big ‘Live’ Betrayal,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003184,Kourtney Kardashian deletes Instagram after unfollowing Younes,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_008293,Steven Tyler Addresses Heart Attack Rumors After Tour Cancellation,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_016748,Grammys: Donald Glover Confirms He’s Retiring Childish Gambino – Variety,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_014460,"Paulina Porizkova, Sailor Brinkley Cook Pose Nude for New Sports Illustrated Swimsuit Franchise",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002721,Ellen DeGeneres Dumps Portia De Rossi,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001790,Queen Elizabeth II Meeting Prince Louis For the First Time,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006365,Jessica Simpson Mom Shamed Sexy Photo,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_008214,Ryan Reynolds Iconically Claps Back at Kanye West for Saying 'Deadpool 2' Lifted His Music,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_022511,"Natalie Morales would like you to know nothing about her, except for one thing…",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005411,Christian Bale avoiding sun to prepare for Dracula movie?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_013371,"The Challenge: Vendettas Sneak Peek: Kayleigh's Belongings Are Trashed Over a ""Lousy Kiss"" With Johnny Bananas",0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000076,SPECIAL REPORT: GEORGIA BECOMES FIRST STATE TO BAN MUSLIM CULTURE IN HISTORIC MOVE TO RESTORE WESTERN VALUES!,1,fakenewsnet,politifact,17,False,val
+fakenewsnet_003732,Andy Samberg Mocks Justin Bieber in 'Popstar' Trailer,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_012653,Harvey Weinstein pleads not guilty to rape charges in court,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000376,Tulsa School closes after brutal fire.,1,fakenewsnet,politifact,6,False,val
+fakenewsnet_015187,Eminem Escapes From An Asylum In Twisted “Framed” Video,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011807,James Corden on Barcelona: We can't let terror attacks become accepted as 'normal',0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006413,Trump Says He Was ‘Saddened’ by ‘Worst Ever’ Emmy Ratings,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001748,Angelina Jolie shows true colours after Brad Pitt breakup,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011628,"Janelle Monae, Juno Temple Join 'Philip K. Dick's Electric Dreams' Cast",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007519,Matthew Morrison Outraged by Alleged Dog Abuse Video Filmed for His Movie,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005564,"Jenna Bush Hager Offers Teary-Eyed Apology for 'Hidden Fences' Flub: ""I'm Not Perfect""",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_021987,"Eric Stonestreet Wrestles Ellen DeGeneres' Prankster as Payback for Past Tricks: ""Finally!""",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003528,Angelina Jolie Is Secretly Dating Real Estate Agent,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_013114,"She’s Gotta Have It delivers rich, stylized fun in a premiere that's a little corny",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002704,Beyonce & Jay Z Divorce Report: The Custody Battle Over Blue Ivy,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_019044,Will Nikki Bella Be Able to Return to the WWE Ring? Brie Waits to Hear the News in This Total Divas Clip!,0,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_019673,Andy Dick Fired From Movie Over Sexual Harassment Claims,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_016628,Below Deck Mediterranean Finale Shocker: Malia Finally Reveals Her Secret Romance,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020985,"Inside Kate Middleton’s Domestic Life: The House, the Facials, the Roast-Chicken Recipe",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004507,Is Lindsay Shookus Pregnant? New Details On The Rumors She's Expecting With Ben Affleck,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_010918,Bella Hadid doesn't care The Weeknd is dating Selena Gomez,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005041,Kate Middleton: Is She Pregnant With Twin Girls?!,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018323,Oprah calls Las Vegas shooting a reminder 'to appreciate the ordinariness of our days',0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005572,Britney Spears and Sam Asghari would 'love to have a baby',1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005144,Wham! Producers Want Hollywood’s Hottest To Play George Michael In Biopic,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_017005,"Nikki Bella Talks Wanting To Be Women's Champion And Not Only A Diva, Changing ""Total Divas"" Name",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_009155,Bow Wow Responds to Fake Private Jet Photo: “It’s a Scientific Method to My Madness”,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001523,Meghan Markle “Fulfills Prince Harry’s Freckle Fetish” Is Made Up Story,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004157,Grammy Awards 2017: See the Full Winners List,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003976,Baby number two for Justin Timberlake and Jessica Biel,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_017871,Comic-Con: Arrow Season 7 Trailer is Here!,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000668,Republican consultant says Barack Obama promised to halve federal deficit in his first term,0,fakenewsnet,politifact,14,False,val
+fakenewsnet_003126,Kim Kardashian West Will Publicly Defend Kanye West 'to the End': Source,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000066,GOP Official Who Says America Needs ?Another 9/11? Shares _______________ With Trump,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_003612,Taylor Swift Is Countersuing for Just $1 in Her Sexual Assault Trial,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005921,A-Rod Has This to Say About Those Jennifer Lopez Engagement Rumors,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005095,8 Juiciest Celebrity Feuds of 2017,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001782,"Mel B clarifies rehab reports: 'No, I’m not an alcoholic. No, I’m not a sex addict.'",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001686,Jennifer Aniston Dreams of Opening a Wellness Center,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_015098,Chrissy Teigen hits back at critic for shaming her for 'narcissistic' breast-feeding photo,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002999,Angelina Jolie and Brad Pitt's Divorce Is a Master Class in PR Spins,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001509,Teen Choice Awards 2017 Winners: The Complete List,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002967,Selena Gomez: The One Birthday Gift She Wants From Justin Bieber Despite Their Split,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002991,Blac Chyna's Request to Trademark Kardashian Name Is Officially Denied: Report,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_011643,The return of macaulay culkin: how he put aside his rocky relationship with fame to be there for paris jackson.,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_005394,Gwen Stefani Seeks Comfort From Blake Shelton As Her Las Vegas Show Reportedly Tanks,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002198,"Kate Upton Cosmetic Surgery – Boob Job, Nose Job & Lip Fillers?",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_014511,Will.i.am says Fergie out of Black Eyed Peas; could Nicole Scherzinger be the new member?,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005597,Brad Pitt: My twelve years of hell with Angelina Jolie,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_019132,Hayley Mills didn't know she won the last Juvenile Oscar — until it arrived on her doorstep,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_000806,VIDEO: Special Preview Of Jersey Shore In Miami!,0,fakenewsnet,politifact,8,False,val
+fakenewsnet_004670,30 Details About Kim Kardashian & Kanye West’s Relationship You May Find Odd,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022510,Prince Harry reveals he proposed to Meghan Markle while cooking roast chicken,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010758,Watch Amber Portwood's Boyfriend Awkwardly Meet Leah for the Very First Time,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004348,Is Katie Holmes Married to Jamie Foxx?,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003837,Paris Jackson’s Family Fears Her New BF Tyler Green Is a Bad Influence (EXCLUSIVE),1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016694,Colin Firth vows never to work with Woody Allen again,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020577,Kendall Hooked Up With Scott? Kris Slept With Lamar? Watch the Kardashian-Jenner Family React to the Wildest Tabloid Rumors Ever!,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_005534,OK Debunks Jennifer Aniston Pregnancy Rumors After Saying She ’ s Having Brad Pitt ’ s Baby,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_019750,6 things you missed at the 2018 Critics' Choice Awards,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011370,MAFS star Sonia Granados is expecting twins after divorce,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005982,Ariel Winter Sarah Hyland Want To Do Reality Show When ‘ Modern Family ’ Ends,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004830,Melissa Joan Hart: 'These Days I Find More Republicans In Hollywood',1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000661,Noted and Quoted,0,fakenewsnet,politifact,3,False,val
+fakenewsnet_016210,‘Live at the Apollo’ Hardcover Book,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_007367,Ankle Weight Butt Lift Workout,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_003216,Clooney to sue French magazine over images of twins,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003978,Kim Kardashian and Kris Jenner Win Big Victory in Blac Chyna's E! Lawsuit,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001834,Ben Affleck and Jennifer Garner Net Worth,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_016696,Britney Spears and Sister Jamie Lynn Bring Their Kids Together for Cute Family Photo,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_019350,"Julia Louis-Dreyfus on Life After Breast Cancer Diagnosis: ""I'm Grateful""",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_009945,The Dark Knight turns 10: how Heath Ledger’s Joker fuelled our archvillain obsession,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_019192,ACS on Versace not a work of fiction: Ryan Murphy,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_007356,"Gigi Hadid, Lana Del Rey and Kendall Jenner Have All Given This Jacket Designer Their Stamp of Approval",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_001452,Butterfly Baby! Kim Kardashian West Shares New Video of Her Adorable Daughter Chicago,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004193,Meghan Markle and Harry show their love in 'COMPLETELY DIFFERENT' ways to William and Kate,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_014592,"10 Best Dressed: Week of November 5, 2018",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002515,Justin Theroux Pursuing Emma Stone Following Jennifer Aniston Split?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006082,"Why Meghan Markle and Kate Middleton Are Friendly, but Not BFFs",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004094,Seacrest Walks Out On Live!,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_000746,"Leonard Lance claims federal tax code contains 4 million words, is 7 times as long as Bible",0,fakenewsnet,politifact,17,False,val
+fakenewsnet_020637,Terry Crews Sues WME & “Rabid Dog” Adam Venit For Sexual Assault,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002022,Beyoncé's Road to Having Twins: From Her Epic Pregnancy Announcement to Her Babies' Stealth Arrival,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001859,"Mandy Teefey Speaks Out; Selena Gomez, Mom Look to Quash Beef Rumors",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000565,letter filed on behalf of Sen Barack Obama and the Obama Exploratory Committee,0,fakenewsnet,politifact,13,False,val
+fakenewsnet_001298,Miranda Kerr Goes Kiwi,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_020123,Guy Ritchie Puts King Arthur Star Charlie Hunnam's Fitness on Blast,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000091,"Queen Elizabeth Says: “Muslim Refugees Are Dividing Nationality, I Fully Agree With Donald Trump We Should…”(VIDEO)",1,fakenewsnet,politifact,16,False,val
+fakenewsnet_012871,MTV 'Road Rules' Star Danny Dias Dead At 34,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_022452,"Watch Blake Shelton, Little Big Town, and more country stars read Mean Tweets",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_017979,Rod Stewart and Penny Lancaster donate the proceeds from their wedding vow renewal pictures to the Grenfell Tower fire fund,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_000681,Obama administration opens the door for states to seek major changes in welfaretowork law,0,fakenewsnet,politifact,14,False,val
+fakenewsnet_009619,Jeff Lewis Says Flipping Out 'Hasn't Officially Been Canceled',0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004126,Queen Elizabeth bans pasta dishes from Buckingham Palace,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_012868,Rita Moreno wears same dress to Oscars as she wore to 1962 ceremony,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_018782,JCPENNEY TEAMS UP WITH TRACEE ELLIS ROSS FOR SPARKLING HOLIDAY CAPSULE COLLECTION,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009532,"Scott & Stiles Really Miss Each Other on 'Teen Wolf', Tyler Posey Says",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001209,Marc Anthony Net Worth,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_003110,"Celebrities React: Donald Trump Press Conference Speech Bashing Media, Bragging About Administration – Gossip Cop",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010700,Royal baby name announced: Prince Louis Arthur Charles,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_019650,Rihanna Reveals the Surprising Time She Feels Most Beautiful: ''In Humid Weather!'',0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000696,Encounters With 'Regular Guy' Fred Thompson -- New York Magazine,0,fakenewsnet,politifact,10,False,val
+fakenewsnet_005224,Kim Kardashian 'resents Kanye West's 'other woman'',1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_013941,Luann de Lesseps Gets Closure from Death of 'Brilliant' Friend on Hollywood Medium,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002972,Russell Crowe reveals he's lost 24 kgs after gaining weight for The Nice Guys role,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_007155,12 Wedding Gowns From TV and Film That Would Be Heavenly at the Met Gala,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_009088,Ariana Grande Tells Pete Davidson to ‘Never Post Again’ After His Latest Instagram,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_012809,Meghan Markle Is Giving Us Pippa Middleton Vibes Ahead of the Royal Wedding,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004886,"TIFF: Glenn Close is ""The Wife""",1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_004231,Ivanka Trump slammed for ‘fishing’ for royal wedding invite,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_021386,"Just an old-fashioned gal!: Julia Roberts reveals she cooks three meals daily, sews for her three kids and refrains from Googling herself",0,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_002974,Jessica Simpson ‘Diet Or Die’ Crisis,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_004948,Gwen Stefani and Blake Shelton's Cutest Moments,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001667,Rumor Bust! Jennifer Garner Is Not Pregnant with Twins,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008279,Enrique Iglesias and Anna Kournikova Welcome Twins: Report,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011591,Angelina Jolie’s transformation through the years,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003990,Did Khloe Kardashian Reveal Her Baby’s Name?: See The Hilarious Tweet That Has Fans Shook,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_013426,AMC Clears Chris Hardwick To Return To ‘Talking Dead’ After Sexual Assault Claims,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001123,"Travis Scott, Kylie Jenner’s Boyfriend Split Rumors: No Break Up",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_015914,Diddy's birthday party inside his posh Los Angeles mansion with 200 people gets SHUT DOWN by police,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_007233,Kourtney Kardashian Showcases Hot Bikini Styles on Italy Trip With Younes Bendjima and Kids,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004082,Hollywood Responds to Paul Manafort Indictment,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001442,Angelina Jolie & Brad Pitt Divorce Papers: First Look At Legal Documents,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_018997,Gabrielle Union’s Shocking Hairstyle Secrets,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_003506,Can You Guess How Much a Woman Spends on Makeup in Her Liftetime? (We Were Way Off!),1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_004599,"Marilyn Manson Did Not Have Testicles Removed After Stage Prop Accident, Despite Report",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005149,US report: Meghan Markle and Matt Lauer ‘had a secret hook up’,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000932,Mike Huckabee: Fried Squirrel Out of a Popcorn Popper,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_002233,"Zoe Saldana Says Hollywood Bullied Donald Trump, Twitter Claps Back Hard",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003182,"Angelina Jolie has a ‘dirt diary’ about Brad Pitt’s boozing,violent rages and volatile behavior, source claims",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001530,Brad Pitt Found “Replacement Son” In Tye Sheridan?,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004457,Blake Shelton Gwen Stefani Scheme Ditch ‘The Voice,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_022787,The Bachelor: Becca K. Calls Lauren B. a 'Huge Threat',0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_018526,'American Horror Story' Enlists Colton Haynes for Season 7,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001519,Jennifer Aniston & Brad Pitt Apparently Text Each Other,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015419,This streetwear brand is khloe kardashian and kanye west-approved,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_009776,“This S–t Just Got Real!” Uzo Aduba’s Running Wild Looks Very Dramatic,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010983,Husband's Open Letter Thanking His 'Curvy' Wife Goes Viral For The Best Reason,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_007271,Tyrese Gibson: ‘I Was Never Mad at The Rock’,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_022192,"'Bachelor' couple Nick Viall, Vanessa Grimaldi end their engagement 'with lots of love'",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005060,"Brad Pitt’s Hurricane Katrina homes are falling apart, residents say in new report",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022519,Billie Lourd Pens Touching Speech for Carrie Fisher's Disney Legend Award: This Was 'Her Ultimate Dream',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_019838,Wedding of Prince Charles and Camilla Parker Bowles,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011668,How Taylor Swift is Counting on Fashion to Change Her 'Reputation',0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006174,Kelly Ripa & Ryan Seacrest Get Last Laugh On Megyn Kelly,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005231,Hoda Kotb Named to Replace Matt Lauer as Co-Anchor of NBC’s ‘Today’,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005569,19 Years In The Life Of Jessica Simpson,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004700,Trump defends 'beautiful' Confederate statues,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_011443,"BET Awards 2018 Red Carpet Fashion: See Celeb Dresses, Gowns",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004361,Selena Gomez and Justin Bieber Not 'Broken Up' But Working on 'Issues' Source Says (Exclusive),1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_017554,"James Corden, Wife Julia Carey Welcome Third Child",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_017899,Dakota Johnson and Chris Martin flaunt love on the beach,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004813,Does Kristen Stewart Stink? Actress Slammed By Tabloids With False Rumor,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015970,Did the Real Queen Elizabeth Just Prove She Watches The Crown?,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004690,Angelina Jolie at risk of losing primary custody of kids,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001696,"Story About Kevin Hart Buying Eniko Parrish $250,000 Push Present Is Fake News",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002143,Khloé Kardashian Baby Bump Photo Timeline,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001502,Prince Harry Meghan Markle Shunning Shunning Pippa Middleton At Wedding Is MadeUp,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010664,How The Bachelorette Failed Becca Kufrin,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_009482,The Actual Reason Jodie Foster Was on Crutches at the Oscars,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_021029,"Chilling Adventures of Sabrina Cast, Spoilers, Air Date",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002231,Lies About Beyonce Twins Released From Hospital,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003191,Joey Fatone Denies Rumors of *NSYNC Reunion at Super Bowl,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002357,Angelina Jolie Jealous Jealous Of Brad Pitt Sienna Miller Is Fake News Story,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022715,Elle King skips out on her own wedding,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_015891,Elizabeth Olsen on What to Expect From 'Avengers 4': 'Things Are Only Going to Get Worse',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_008731,"Eat, Pray, Love Author Elizabeth Gilbert Mourns Death of Partner Rayya Elias",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006907,Meghan Markle pregnant: Royal baby news sparks memes on social media,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_022466,What Is “Scooby Doo Papa”? All You Need To Know About The New Dance Fad,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002529,John Mayer Hospitalized for an Emergency Appendectomy,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005154,Categories video Family Of Robert Downey Jr,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_018470,"Jessie James Decker Teases Christmas Music, New Album & Song ""Use Your Words"" About ""Quiet"" Husband Eric",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_018356,Kendra Wilkinson says Marriage Boot Camp was good therapy,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003760,Trivia game blunder suggests Prince Harry and Kate Middleton had a baby together - what would William say?,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_000230,Inside a Fake News Sausage Factory: ‘This Is All About Income’,1,fakenewsnet,politifact,11,False,val
+fakenewsnet_001436,"The Brangelina industry: why Jennifer Aniston, Brad Pitt and Angelina Jolie keep making the headlines",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_012254,Kathie Lee Gifford on Grandchildren: There's No Rush for Her Kids to Have Babies,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_017642,Watch Pink's daughter Willow give first makeup tutorial on Instagram,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_019230,2018 MTV VMAs will air without a host,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_010588,2018 Winter Olympics: Katie Couric to co-host Opening Ceremony for NBC,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007153,Law & Order: Special Victims Unit (season 1),0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018097,Super Bowl commercials,0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_002129,Angelina Jolie & Sean Penn Talking ‘A Lot’ Claims Source — He Thinks She’s ‘Amazing & Stunningly Beautiful’,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_002846,"Chubby Mariah Carey Ditches The Gym, Opts For Breast-Reduction Surgery",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016011,Blake Lively jokes about Ryan Reynolds' bromance with Hugh Jackman,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002884,5 Wrong Rumors About Blake Shelton,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003350,Angelina Jolie Opens Up About Her Divorce From Brad Pitt for the First Time: ''We Will Always Be a Family'',1,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_002688,Entertainment Kevin Hart and wife celebrate first wedding anniversary after cheating chatter,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002261,"Angelina Jolie, Fragile At 79 Lbs, Battles Brad Pitt Over Career & Co-Star: Fears Same Fate As Jennifer Aniston?",1,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_009033,Justin Bieber’s Mom Broke Her Foot During A Vacay With Her Son – Check Out The Pics From Their Tropical Vacation In The Maldives,0,fakenewsnet,gossipcop,24,False,val
+fakenewsnet_005854,Gwen Stefani Supporting Blake Shelton To Kick Katy Perry & ‘American Idol’s Butt In Ratings War,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_018911,"Leah Remini Sets Development Pact With New A+E Networks, ‘Scientology’ Renewed for Season 3",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004212,"There's a new theory about how Khloé and Kylie will reveal their pregnancies, and it's the most solid yet",1,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_016371,Netflix officially cuts all ties with Kevin Spacey,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_012605,Hilarie Burton Gives Birth: ‘OTH’ Star & Husband Jeffrey Dean Morgan Welcome Baby — A Girl,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001144,Drew Barrymore Is Secretly Having Sleepovers With Ex-Husband Will Kopelman,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000401,OBAMA’S PRIVATE ‘SECURITY’ COMPANY SETS UP MASSIVE CAMPS OUTSIDE 3 MAJOR CITIES,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_006184,Kylie Jenner & Travis Scott: Their Super Cute & Effective Method Of Putting Stormi To Sleep,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_012177,Miss USA Kara McCullough Clarifies Controversial Stance on Feminism: ‘I’m All About Women’s Rights’,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004616,"Caitlyn Jenner confirms Kylie, 20, IS expecting a baby",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_012489,See All the Red Carpet Photos from the 2017 Billboard Music Awards,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003991,Katy Perry slams Lionel Richie on Jimmy Kimmel Live!,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003089,Angelina Fleeing The Country With Brad’s Kids,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_006015,Anne Hathaway’s love-hate-redemption publicity cycle is a familiar (and sexist) one,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003501,Revealing Details About Prince William and Prince Harry’s Royal Feud With Camilla,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009012,Kate Spade shared how she wanted to be remembered in a 2002 interview,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022618,"Actress Brigitte Nielsen, 54, has given birth to her fifth child",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_019555,Soleil Moon Frye Hears From Her Late Father and Gets an Important Message About Her Mother's Health on Hollywood Medium,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_004624,"Brad Pitt Dating: Star’s Family Urging To Get Back With Jen Aniston Says ‘Radar,’ Jen Not Reigniting Romance",1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_000810,speech in Cincinnati,0,fakenewsnet,politifact,3,False,val
+fakenewsnet_001390,The secret Donald Trump and Rudy Giuliani know about the Russia probe,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004617,Rachel Lindsay and Bryan Abasolo Are Waiting for a TV Wedding,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_012592,Ethan Embry Reveals Secret Battle With Opiate Addiction,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011611,Taylor Swift's Lack Of Promotion Around 'Reputation' Highlights How Powerful She Really Is,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001580,Kristen Stewart Replaced Angelina Jolie In Movie Report A Year Ago,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020234,Ciara and Kelly Rowland Sing Christmas Carols to Patients at Children's Hospital,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001703,Blake Lively & Ryan Reynolds Reportedly Expecting Baby Just 19 Months After Ines’ Birth,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002697,Why Johnny Depp’s Rolling Stone Interview Shows He’s a PR Liability – Variety,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004666,Katie Holmes isn't pregnant with Jamie Foxx’s baby and there's no wedding,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_013001,Simply the best: Legendary performer Tina Turner turns 79,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001772,Meghan and Harry: We're having a baby already!,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006573,"Amanda Stanton Tweets About ""Unhappy"" People Amid Robby Hayes Drama",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013797,Kendra Wilkinson Packs Up Her Things Amid Divorce: ''My Heart Can't Hurt Any ...,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003442,"Kim Kardashian, Kanye West Aren't in Couples Therapy: Source",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_019149,Anna Faris Just Said Some Heartbreaking Things About Her Marriage to Chris Pratt,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_020548,Luann de Lesseps Agrees to Plea Deal in Connection with Her Palm Beach Arrest,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_020188,‘RHONJ’ Star Teresa Giudice Denies Cheating As Jailbird Joe Giudice Is Flagged For Deportation,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005100,"Jada Pinkett Smith Not Leaving Will Smith For August Alsina, Despite Claim",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000001,Court Orders Obama To Pay $400 Million In Restitution,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_003832,Blake Shelton & Gwen Stefani ‘Stronger Than Ever’ After Miranda Lambert’s New Romance,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004597,Scott Disick Is Reportedly Considering Writing a Kardashian Tell-All for $10 Million,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_012551,Taylor Swift and Joe Alwyn news: Rumored couple rendezvous after Jingle Ball concert,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_012571,Taylor Swift Announces New Album ‘Reputation’,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_016187,Kate Middleton Did Some Last Minute Shopping at a Discount Store,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003366,Kourtney Kardashian Opens Up About Restricting Her Kids' Screen Time: 'The Kids Don't Really Play With iPads a,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_005372,"Celebrities React: NFL Players Kneel, Lock Arms During National Anthem",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004560,"Can’t Keep Track Of Its Selena Gomez, Niall Horan Fake News Stories",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_016836,Briana DeJesus Finally Addressed Those Javi Marroquin Marriage Rumors,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006306,Anna Faris’ Dad Reveals Truth Behind Shocking Split From Chris Pratt,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005163,Kourtney Kardashian Pregnant With Baby 4,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003971,"Is Brad Pitt Dating a MIT Professor? They’re ‘Just Friends,’ Report Says",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002045,Posh and Becks could be set to split - Twitter rumours start to surface,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_014576,"'We can do a scan of my face, darling!' - Bella Hadid hits back at plastic surgery rumours",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_000777,"Rick Santorum: By amending constitution, we can balance the budget for good",0,fakenewsnet,politifact,12,False,val
+fakenewsnet_002376,Jay-Z's '4:44 Tour' Proves The GOAT Is Still The Greatest,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021313,"There's A Tiny Easter Egg In ""Ocean's 8"" You Almost Definitely Missed",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003953,Gigi Hadid Is Now Defending Her Leaner Body on Instagram,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_014306,Kelly Rohrbach cosies up to shirtless beau Steuart Walton in Malibu,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001572,Kim Kardashian on Khloé Reconciling with Tristan Thompson: 'She Has to Do What Makes Her Happy',1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_003296,Gigi Hadid warns Anwar Hadid about Kendall Jenner,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_015806,Pitch Perfect's Anna Kendrick and Ben Platt Reunite at the 2018 Grammys,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009510,The beauty essentials to pack this festival season,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_017293,Her Favorite $8 Mascara and 5 Other Beauty Products Cindy Crawford Swears By,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_008401,Girl on Top 2017: Melanie Scrofano or Alycia Debnam-Carey? The Winner Is…,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003249,Scott Disick 'desperate for the Kardashians to accept Sofia Richie',1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017376,Jeremy Allen White and Addison Timlin Welcome a Daughter,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015149,Lisa Vanderpump pays tribute to late brother: 'Rest in peace',0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002212,"Janet Jackson and Jermaine Dupri Back Together? How Their Relationship Is ""Slowly Developing""",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_019923,"Laguna Beach’s Talan Torriero, Wife Danielle Welcome a Baby Boy — Find Out His Name!",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021273,"Kimmel Rips United Airlines One More Time, with Help from Matt Damon",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_008139,Chris Cornell's widow says his battle with addiction led to his suicide: 'He loved his life',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_019279,"How Selena Gomez, Kate Hudson, and More Get Rid of Dark Circles",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000621,Hillary Clinton Transcript: Read Full Text of Clinton Campaign Launch,0,fakenewsnet,politifact,10,False,val
+fakenewsnet_001963,Selena Gomez & The Weeknd In ‘Vogue’ Together? A Sexy Shoot May Be In The Works,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_022776,America's Got Talent's First Live Show Eliminations Include A Judges' Favorite And More,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_012328,Cara Delevingne photo gallery - high quality pics of Cara Delevingne,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004899,Brad Pitt and Princess Charlotte of Monaco move to London,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010230,"Cardi B, Literal Angel, Lived Her Best Life At The Grammys",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005419,Katie Holmes & Jamie Foxx Reportedly Getting Married After Years Of Secretly Dating,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_007023,SVU Renewed for Season 20 at NBC,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005285,"Ellen Degeneres:Ellen degeneres not warning justin bieber to get help, despite report",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001669,Selena Gomez Calls Justin Bieber Relationship 'Crazy And Very Intense',1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002419,Blac Chyna's Teen Boyfriend YBN Almighty Jay Admitted to Not Using Condoms Before Pregnancy Reports,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003085,Ozzy Osbourne Opens Up About Cheating on Sharon Osbourne,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_017096,Inside Rob Kardashian and Mehgan James’ New Romance: Why His Famous Family ‘’Doesn’t Approve’’,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_011474,Super Bowl selfie kid on reaction: 'It's crazy',0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004116,» Jamie Foxx Begged Katie Holmes To Take Him Back After Flirting With Other Women?Gossip Site,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_003196,Did Beyonce Gave Jay-Z Marriage five Rules?,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000798,Has the potency of pot changed since President Obama was in high school?,0,fakenewsnet,politifact,13,False,val
+fakenewsnet_001425,Donald Trump kicked One Direction out of his hotel for refusing to meet his daughter,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004296,Don’t Be Fooled: Mariah Carey And Nick Cannon Played Nice For Cameras But Beef Boils At Kids Choice Awards,1,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_004303,Jamie Foxx walks out of live interview after being asked about Katie Holmes,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_017251,Milo Ventimiglia Brings the Papa Pearson Wisdom to the 2017 Emmys ''There's Always Something to Lear,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001006,"David Plouffe, Sen. Joe Lieberman and Gen. Michael Hayden talk national security leaks",0,fakenewsnet,politifact,13,False,val
+fakenewsnet_001693,Justin Bieber Flaunting Hailey Baldwin Romance: Is He Hoping Selena Gomez Notices?,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_021542,37 Pictures That Prove Céline Dion Is the Style Icon the World Needs,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_010970,Why We Loved Hugh Hefner: See His Best and Craziest Moments,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_014926,Eddie Cibrian and LeAnn Rimes Net Worth,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_009795,Jennifer Aniston and Justin Theroux's Relationship in Pictures,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004450,Why we are all going La La for Ryan Gosling – His 7 greatest movie moments ever,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_010685,O.J. Simpson's net worth as he faces parole hearing,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002051,Did Charlie Heaton & Natalia Dyer Break Up? ‘Stranger Things’ Couple Reportedly Split Before Season 3,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004552,Kendall Jenner Reveals She Was On The 'Verge Of A Mental Breakdown' In 2017,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000176,"Tennessee GOP Twitter taken down, after Tweet exposing Pelosi involved in Pedophilia",1,fakenewsnet,politifact,12,False,val
+fakenewsnet_002833,Here's Tom Hiddleston Gushing About Taylor Swift a Month Ago,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010802,"Mini Must-Have: DJ Khaled's Son Asahd's $2,000 Gucci Suit He Wore to the VMAs - at 10 Months Old",0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_000679,Rockefeller: An Opportunity We Cant Pass Up,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_001174,Khloe Kardashian Done,1,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_000222,Obama Announces Bid To Become UN Secretary General – Usa News,1,fakenewsnet,politifact,11,False,val
+fakenewsnet_005692,Kourtney Kardashian Going Under The Knife To Transform Voice!,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_021609,Ryan Reynolds Explains How His Mom Helps Him Squeeze Into The Deadpool Suit,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001412,Kris Jenner Wants Paris Jackson To Join ‘Keeping Up With The Kardashians’ Amid Ratings Woes,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010850,Daniel Day-Lewis Quits Acting,0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_003696,Justin Bieber: Hollywood Elites Killed My Unborn Child,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001240,What! Brad Pitt is smitten by a young Angelina Jolie-lookalike?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_018286,Chip and Joanna Gaines’ Best Quotes About Parenthood,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_021113,'The 100's' Lindsey Morgan breaks down Raven and Clarke's reunion,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_012095,Millie Bobby Brown responds adorably to Kim Kardashian's Valentine's gift,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016785,Chip & Joanna Gaines Open up About Why They’re Leaving Their Show,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_020934,Amy Schumer Recited The Funniest and Cutest Wedding Vows EVER,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021923,Boyfriend of slain reality TV star Loredana Nesci sentenced to 16 years to life,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_022639,10 Of The Sexiest Lyrics From Taylor Swift's 'reputation',0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_007592,"Birdies Is Making Meghan Markle Wedding Slippers & You Can Shop The Collection, Too",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_009428,Demi Lovato Explains Why She Posted Those Cellulite Pics,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_022040,Tiffany Haddish Takes Selfie with Beyonce at JAY-Z's Concert,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_020445,Here are the Oscar red carpet fashions we can’t stop talking about,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_020052,Kim Kardashian West in Talks With Jared Kushner to Pardon an Imprisoned Grandmother,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005255,Selena Gomez is seen with same mystery man from May,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_014320,Tom Felton Goes Incognito Among All the Muggles at Harry Potter Concert Screening,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_014469,‘Unsolved’ Review: Tupac & Notorious B.I.G. Murder Drama A Mic Drop For USA,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004359,Celebrities react to Trump inauguration on Twitter,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003553,Oprah Winfrey 2020? These scandals might work against her.,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005282,Alicia Keys Says She Loves Gwen Stefani More Than Blake Shelton Does: Watch,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002299,Miranda Lambert Scarred For Life Blake Shelton,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004495,Mel B Clears Up Rumors About Her Rehab Plans,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000205,Clinton Foundation Largest Unprosecuted Charity Fraud in History-Charles Ortel,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_000691,"As Dems’ “Stimulus” Anniversary Nears, Americans Ask: “Where are the Jobs?”",0,fakenewsnet,politifact,11,False,val
+fakenewsnet_018369,Linkin Park post touching video of fan memorials from all around the world to Chester Bennington,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_018491,We Now Know the Real Reason Bethenny Frankel and Carole Radziwill's Drama Began,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_008951,'Dancing With the Stars' Tour Resumes After Fatal Pileup in Iowa,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002921,Jennifer Aniston confronts Neri: ‘Stay away from Brad!’,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002328,"Donald Trump Does Not Wear “Adult Diapers,” Despite Speculation",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_014071,Oscar Pistorius back in prison after spending night in hospital,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016970,"Lucy Hale 'has jewellery worth $15,000 stolen",0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000499,Gross Domestic Product Percent change from preceding period,0,fakenewsnet,politifact,8,False,val
+fakenewsnet_003718,David Lynch says Trump won't be a great president if he continues down current path,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006014,Jennifer Aniston and Brad Pitt to reunite in new romantic comedy,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003113,Beyonce & Jay-Z Betrayed By Solange Knowles After Modelling With Kanye West?,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006084,Kate Middleton Forbids Prince William From Solo Travel Following His Recent Flirty Ski Trip,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_019161,Tiffany Haddish Hangs Out with 'Big Sister' Barbra Streisand — and Teaches Her About Cardi B,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001040,"The CNN Miami Republican debate transcript, annotated",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_023131,Kim and Khloe Kardashian blame Blac Chyna for 'taunting' Rob Kardashian amid legal drama,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_008237,‘Marriage Boot Camp: Reality Stars Family Edition’ Cast Revealed,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_007224,Sadie Robertson Confesses her Celebrity Crush on Justin Bieber,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005216,Taylor Swift Is Preparing to ‘Come Out of Hiding’,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_021436,'Hollywood Medium' Tyler Henry Gets Johnny Weir To Open Up About Divorce,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000131,BREAKING: Florida Moves For FULL RECOUNT Of State Over Massive Voter Fraud (DETAILS),1,fakenewsnet,politifact,13,False,val
+fakenewsnet_005873,"Jennifer Garner, 44, tries hard to act unperturbed when asked if she's pregnant with estranged husband Ben Affleck",1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_013039,Britney Spears Shares Kissable Moments With Boyfriend Sam Asghari in Romantic Video Montage,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000544,Striking it Richer The Evolution of Top Incomes in the United States update with 2007 estimates,0,fakenewsnet,politifact,16,False,val
+fakenewsnet_000820,Transcript: Interview with Donald Trump,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_004676,Jennifer Aniston Is Getting Close to Will Arnett Following Justin Theroux Split (EXCLUSIVE),1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002535,Bryce Dallas Howard Earning $2M Less Than Chris Pratt For 'Jurassic World' Is No Scandal,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005381,Matt Damon Taking Alyssa Milano’s Criticism To Heart — Doesn’t Condone Sexual Misconduct,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002034,This picture of Justin Theroux cuddling up to ‘close friend’ Naomi Watts ‘upset’ wife Jennifer Aniston,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_005587,Kim Kardashian used Snapchat to prove Taylor Swift was lying about Kanye West's Famous,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_015696,The Last Ship Takes Production Hiatus as Eric Dane Battles Depression,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_013651,Kourtney Kardashian Undresses and Straddles Boyfriend Younes Bendjima in Seriously Sexy Instagram Pic,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004131,Gwen Stefani And Blake Shelton On The Verge Of A Split? She Reportedly Called Off Their Wedding Plans,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_018558,How Kelsea Ballerini Went From Keith Urban's Biggest Fan to Biggest Opening Act,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_014454,The Bachelorette Begins: Behind the Scenes of Becca Kufrin's Foray Into Handing Out Roses,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005232,"American Media, Inc.",1,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_003992,Watch Kanye West's 'American Idol' audition,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001809,Kim Kardashian Carefully Planned Taylor Swift Video Release With Kanye ‘To Defend Family’,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001350,Camilla and Eugenie attack Kate and Meghan in shock public row,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020313,Mills-Peninsula Bariatric Surgery Programs,0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_011568,Patti Stanger Finds Out Why Her Adoptive Mother Didn't Want Her to Know About Her Biological Mom,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_014985,Alleged Taylor Swift stalker waited on roof of her Manhattan apartment building: prosecutors,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005864,Kendall Jenner Has a 'Really Special Connection' with Niece Stormi: She's 'So Comfortable with Me',1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005074,"Chris Soules Had No Alcohol In System After Crash, Negative For Drugs",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010678,Chloe Moretz steps out in sharp outfit and 'f**k' necklace,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003964,Brad Pitt Is Writing A Tell-All & THIS Is What's In It!,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015974,Kate Mixes Old & New for Final Engagements Before Maternity Leave,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002434,Meghan Markle Caught In Nazi And Satanism Scandal,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001315,"Tom Cruise Dating In Disguise, Women Chosen By Scientology? Not Quite, Yet Holmes Is Queen Of Secret Romance",1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_011095,"Aaron Carter: 'Basically, I have an eating disorder'",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005065,Justin Theroux’s friends never believed he and Jennifer Aniston would last,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_019071,List of Modern Family characters,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_018438,"All About Eleven’s’ ‘Stranger Things 2’ Makeover, From the Show’s Costume Designer",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_012048,Caroline Wozniacki Is Engaged to David Lee: See the Ring,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003572,"Whether he wanted to or not, John McCain played an outsize role in Trump’s political narrative",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_021261,Tyler Henry says he connected with Michael Jackson,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_019723,The Best White Button-down Shirts for Women,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_019938,Aaron Carter Entering Facility to Improve Health and Wellness: 'Only I Can Change My Life',0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006295,Barack Obama Day,1,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_000207,"Smoking In Cars With Children Is Illegal Starting January 30, 2018",1,fakenewsnet,politifact,11,False,val
+fakenewsnet_017861,'Mad About You' revival reportedly is in the works,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005788,People are really excited to see that Meghan Markle's old style is back,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002658,Angelina Jolie Gets New Divorce Lawyer Amid Brad Pitt Custody Battle,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006275,George Clooney Begging Amal For More Babies,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000978,U.S. Senate: U.S. Senate Roll Call Votes 108th Congress,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_003431,The Ocean's 8 Cast Kindly Requests You Stop Asking This Question,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001068,Selena Gomez Had The Perfect Response To News Of Justin Bieber’s Engagement,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005053,"Story About Khloe Kardashian ""Guilty Over Happy Pregnancy"" As Kylie Jenner ""Struggles"" Is Made-Up",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_019917,Tracee Ellis Ross Just Made a Strong Case for Wearing Red Lipstick During a Workout,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001583,Karrueche Tran -- Screw Chris Brown ... I Can Post Pics of Whoever I Want (VIDEO),1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_015161,Jennifer Lawrence Explains Why She Didn't Sue Over Nude Photo Leak Scandal,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017128,Gigi Hadid Proves It's Time to Swap Your Sandals for Mules,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002272,"Kim Kardashian Never Said She And Kanye West ‘Barely Made It’ This Year, Despite ‘OK! Magazine’ Report",1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_014601,Natalya Defeats Naomi to Win SmackDown Women's Title at WWE SummerSlam 2017,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_014232,Onion Ring Instagrams and Other Secret Celebrity Accounts,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001483,Authorities Responded to Scott Disick's Home in August for Possible Psychiatric Hold: Reports,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002955,List of Super Bowl halftime shows,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_013292,Famously Single-Season 2: Is Anyone Else Watching?,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_007458,Gwyneth Paltrow: I’ve milked every opportunity and used every mistake as a stepping stone,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002681,Jennifer Aniston: Life and Career: [NEWS] Justin Gives Insight on His Marriage to Jennifer,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001861,Locations in London,1,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_000293,"Michelle Obama: ‘Florida Shooting Is Clearly Trump’s Fault, These Shootings Are Happening Constantly Since He Became Our President.We Must Protect Our Children From This Tyrant”Do You Support Her?’",1,fakenewsnet,politifact,28,False,val
+fakenewsnet_011629,"Katy Perry, Jennifer Lopez Join James Corden's 'Carpool Karaoke' Primetime Special",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000375,"300,000 Pounds of Counterfeit Rat Meat Has Been Sold as Chicken Wings in The U.S.",1,fakenewsnet,politifact,15,False,val
+fakenewsnet_005789,Al Roker Reacts to Matt Lauer's Recent Public Statement Following 'Today' Show Firing (Exclusive),1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000117,"Bill Gates: “I think Donald Trump will go down to history as one of the greatest presidents, just like Reagan.”",1,fakenewsnet,politifact,20,False,val
+fakenewsnet_022856,27 Shows You Can Binge Watch Over the Thanksgiving Holiday (Photos),0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005621,Kylie Jenner Made a Contestant Cry on Khloé Kardashian's New Reality Show,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002335,Are Demi Moore And Ed Helms Dating? New Details On Their Rumored Secret Relationship,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_006159,"Despite Claims, Jennifer Aniston And Justin Theroux Did Not Fight At Orlando Bloom’s Birthday Celebration",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000067,82-Year-Old Who Killed A Muslim In Self-Defense Gets The Death Penalty,1,fakenewsnet,politifact,11,False,val
+fakenewsnet_004659,Caitlyn Jenner Seemingly Ices Khloe Kardashian in Mother’s Day Post,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003520,Beyonce looks amazing in Instagram snap: defiant against online trolls,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005187,Rihanna Tempting Hassan Jameel Hassan Jameel Endless Legs,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018696,Selena Gomez and Francia Raísa share story behind dramatic kidney transplant,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004322,Joe Jonas Joins Selena Gomez For New Movie & We Can’t Help Wondering: Does Taylor Swift Know?,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_005871,Ellen DeGeneres Drew Barrymore Feuding Over ‘ First Dates ’ Reality Show,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010949,Shailene Woodley Is Aluminum Foil-Chic and More Best Dressed Stars,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003299,‘The Voice’ War! Inside Blake Shelton & Kelly Clarkson’s Explosive Backstage Feud,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_019851,Shemar Moore Sets the Record Straight on Those Phaedra Parks Dating Rumors,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001191,Teri Hatcher Broke And Homeless,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_006222,Kourtney Kardashian 'frustrated' by 'jealous' beau Younes Bendjima,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006251,"J.J. Watt, Tyler Perry, Jamie Foxx and More Celebrities Give Big to Relief Funds for Deadly Texas Floods",1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_005506,"Everything Will Smith, Jada Pinkett Smith Have Said About Marriage",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005361,"George Clooney’s Twins Drenched His $5,000 Tuxedo In Milk",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004621,Gwyneth Paltrow Denies Amber Rose’s Claim That She’s Beyonce’s ‘Becky with the Good Hair’,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002333,"Brooklyn Beckham, Pax Jolie-Pitt Not Best Friends, Despite Report",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_018359,Ariana Grande and Pete Davidson Show Off Matching Black Heart Tattoos Weeks After Split,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_011917,Kylie Jenner Just Got a Stormi-Inspired Manicure,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005689,Josh Duhamel Meets Jennifer Garner's Kids,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_015162,Will There Be A Season 3 Of ‘The Arrangement’? Fans Want The Drama To Continue,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021394,Jesse Williams Awarded Joint Custody of Children in Divorce,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002827,Is Kristen Stewart Replacing Angelina Jolie?,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001405,Real Housewives' Harry Hamlin stands behind wife Lisa Rinna following outburst,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000542,The Colbert Report,0,fakenewsnet,politifact,3,False,val
+fakenewsnet_003398,Fans Praise 'Live With Kelly And Ryan' Stand-In Host Jenna Dewan Tatum,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004759,Jennifer Lawrence Calls Out “Sexist” Debate Over Her Versace Dress,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005806,Angelina Jolie being 'consoled' by Johnny Depp as she gears up for divorce battle with Brad Pitt,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_015424,Clare Crawley's Engagement Ring Details from The Bachelor Winter Games Proposal,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_010976,Face Serums Mandy Moore and Other Celebs Use on the Red Carpet,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017076,Carson Daly's Mom Pattie Daly Caruso Dies at 73,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003276,Video: Barack and Michelle Obama Cut Loose At Beyonce and Jay-Z Concert,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_008396,Dierks Bentley + Cassidy Black — Country’s Greatest Love Stories,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_012067,6 JEWELRY PIECES YOU SHOULD BUY JUST TO KIRAKIRA ON INSTAGRAM,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015856,Sara Sampaio Didn’t Agree To Lui Cover Photo Shoot – “I Felt Violated”,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022598,The cast of Halloweentown reunited to celebrate Debbie Reynolds,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002005,Sam Asghari - News,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_020629,Nattie Neidhart Lies to Lana About T.J. Having a “Rare Form of Adult Chicken Pox” on Total Divas – AMNAYzh News,0,fakenewsnet,gossipcop,21,False,val
+fakenewsnet_005678,Kim Kardashian Explains Why She Didn't Invite Surrogate to Baby Shower,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_013757,How Katie Holmes Got Into the Best Shape of Her Life,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_021828,David Spade Jokes About Dating Younger Women: “They Have to Have a GED”,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003873,Kim Kardashian Says She Didn't Realize Kanye West Was Suffering from Anxiety After Paris Attack,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_020322,"Rock Hall Nominees 2019: Radiohead, Rage, Janet Jackson, More",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005298,Brad Pitt Responds To Rumours He’s Dating Princess Charlotte Of Monaco,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006103,"Taylor Swift, Joe Alwyn Hold Hands on Dinner Date in London",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004482,The New Celebrity Apprentice,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_006146,"Robert Pattinson, FKA twigs reportedly call off wedding",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_016261,Ed Sheeran Dedicates Song to Baby Girl Named After Him: 'I Love Babies!',0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004561,Kathy Griffin claims neighbor called her ‘stupid b-tch’ as legal battle escalates,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015630,Bachelor's Chris Soules and fiancee Whitney Bischoff split two months after final episode,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_017948,Why Are Kendall & Kylie Silent About Their New Lingerie Drop?,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001932,Robert Pattinson Desperately Wants Bond Kristen Stewart,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001043,The Budget and Economic Outlook: Fiscal Years 2009 to 2019,0,fakenewsnet,politifact,10,False,val
+fakenewsnet_019560,Selena Gomez's Mom Felt 'Helpless' During Singer's Transplant but 'Also Gained Another Daughter' in Francia Raisa,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002407,George Clooney Rented Private Island For Amal Clooney Birthday?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_007894,"'A Christmas Prince: The Royal Wedding' is so awesomely bad, you must watch it",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_017965,Jason Isaacs Almost Turned Down the Role of Lucius Malfoy in “Harry Potter”,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004513,Oprah Winfrey Reveals Why She Won't Marry Stedman Graham,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_012495,"It's Oct. 2... Happy 17th Birthday, Jughead Jones! Have some fan art. : riverdale",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_022735,Priyanka Chopra Is Making Us Rethink Moisturizer,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_008908,Watch Jay Cutler and Kristin Cavallari argue over house hunting,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_012139,"Sarah Hyland and Wells Adams got their first Christmas tree together as a couple, and the pics are perfect",0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_001547,"Kanye West Is Reportedly Opening a Restaurant in Calabasas and, No, It Won't Be Serving Croissants",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002765,Inside Robert Pattinson and Suki Waterhouse's ''Casual'' Romance,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003587,Khloe Kardashian cutting off family after Tristan Thompson confusion?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_023004,La Toya Jackson Biography,0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_008704,How strong is Wonder Woman's lasso? Who has been able to break and/or escape its tangle?,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_021643,WAGS LA’s Amber Nichole Miller Is Excited to Show Off Her Relationship With UFC Hall of Famer Tito Ortiz,0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_004715,"How Jennifer Garner is handling Ben Affleck & Lindsay Shookus' relationship: 'She's not embarrassed,' source says",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001556,Kylie Jenner won't let motherhood stop her being sexy as she poses for sultry pics in white swimsuit,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_002575,Folks Lost Their Minds Over How Thick Beyonce Is….Guess They Forgot She Recently Birthed Two Whole People,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_013717,Kate Middleton and Prince William Royal Baby Facts,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011459,'House of Cards': Here's Exactly How Kevin Spacey's Frank Underwood Died,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002639,Kris Jenner Says Kylie Jenner Is ‘So Dedicated’ as a Mom to 3-Month-Old Stormi,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005749,Selena Gomez & Justin Bieber: She’s Hoping They Can Double Date With Taylor Swift & Joe Alwyn,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_002098,Trump Defends Initial Remarks on Charlottesville; Again Blames ‘Both Sides’,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000708,Transcript: House Majority Leader Boehner on 'FNS',0,fakenewsnet,politifact,7,False,val
+fakenewsnet_021011,Christian Bale Gains Weight to Play Dick Cheney in Biopic 'Vice',0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_012301,"Tyler Hoechlin Returning as Superman for Crossover, Lois Lane to Appear",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003091,George Clooney Has A Magic Touch With Twins — He Sweetly Calms Them When Crying,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021641,Celebs Who Actually Took a Fashion Risk at the 2017 Emmys - Parker XL,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_006073,"Mel B: I'm Seeking Treatment After Relationship 'Turmoil,' Messy Divorce",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004169,The Early Stages of Falling in Love,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_020879,"Why hasn't Captain America: Civil War been on the movie channels HBO, Starz, or Showtime?",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_017835,Reese Witherspoon Confirms 'Legally Blonde 3' Is On and She's In,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003874,Katy Perry Rocks Lingerie Look for Date Night With Orlando Bloom,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006135,Brad Pitt's 'near breakdown',1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_004203,Alec Baldwin Seth Meyers NOT At War At Despite Report,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017901,Kelly Clarkson Got ‘Very Drunk’ at the Premiere of Her Bad Movie,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010533,What It's Really Like to Be Cast on Fixer Upper,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004785,Angelina Jolie DRAGS Jennifer Aniston To Court For Sleeping With Brad Pitt,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005487,Kendall Jenner is livid when Kris refuses to invite Caitlyn to the annual Christmas Eve party,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_010820,"Watch the Riverdale Cast Drag Each Other and Invent New Ships in a Game of ""Most Likely To""",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_002803,'The Tourist': Why the Angelina Jolie-Johnny Depp Flop Deserves a Second Look,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_016685,'Shadowhunters' star Dominic Sherwood apologizes for using gay slur,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000516,Interview with Rudy Giuliani,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_010680,Jenelle Evans Takes Son Jace on Horseback Riding Trip After Custody Battle,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002820,Angelina Jolie has her eyes set on British actor Ed Skrein,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_023040,Dolly Parton Finally Reveals Secret Behind Long Sleeves And Her Rise To Fame | Page 2 of 72 | OceanDraw,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_008473,Nick Jonas & Mustard Bring Otherworldly 'Anywhere' to 2018 MTV Movie & TV Awards,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002784,Justin Bieber Did NOT Attend Vanity Fair Oscars After Party,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006770,Meghan Markle Makes Her Royal Ascot Debut in Monochrome Givenchy,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000926,TPMtv Extra: South Carolina Ronald Reagan Debate,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_005792,"Jennifer Aniston Isn’t Dating Jake Gyllenhaal, Despite Report That Reese Witherspoon Set Them Up [Debunked]",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002423,"Brad Pitt, Jennifer Aniston met secretly in London?",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006043,Courteney Cox Flirting With Brad Pitt: Does Jennifer Aniston Know? — Report,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003020,"Kim Kardashian and Donald Trump talked about prison reform, because 2018 is off the rails",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006896,Tarek and Christina El Moussa Produce New HGTV Show: Chi-Town Flip,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005035,Are Mariah Carey & Joe Jonas Feuding?,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_002156,Man who posed as Justin Bieber online to entice girls sentenced,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002127,Kim Kardashian is allowed to care about prison reform,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011361,22 Of The Flyest Fits We Saw At The 2018 Veuve Clicquot Polo Classic,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000998,"Letter to the Honorable John Boehner providing an estimate for H.R. 6079, the Repeal of Obamacare Act",0,fakenewsnet,politifact,17,False,val
+fakenewsnet_005431,"Olivia Munn, Trevor Noah Not Dating, Despite Speculation",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002466,Channing Tatum Jenna Dewan Fighting Over Nude Photo Claim,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001817,Ariana Grande Did Not Cheat On Pete Davidson With Ex-Boyfriend Big Sean [Debunked],1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_007932,Este Haim called Cheryl Cole to apologise for her drunken antics at the Brits... it's The Dredge,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_008155,Melissa McCarthy Shares Valuable Money Advice for Young Women.,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004501,Tyrese Gibson Calls Ex-Wife 'Bitter' After She Accuses Him of Abusing Daughter & Is Granted Temporary Restraining Order,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_020814,Miranda Kerr shares a detailed account of her morning-to-night beauty routine.,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_011780,Who We Would Love To See Replace Kim Cattrall In “Sex And The City 3”,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_015310,Matt Damon Thinks George Clooney May Have Finally ''Grown Up'',0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020019,Michelle Williams Is Engaged to Andrew Youmans,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_013975,"I Gave Oprah One Hour, and She Gave Me a Whole New World",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_010220,Who Are the 13 Reasons Why Cast Dating?,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000061,Debbie Wasserman Schultz Aide Arrested Trying to Flee the Country,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_020400,'American Horror Story': How 'Cult' Went Beyond Trump vs. Clinton,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_019216,Gigi Hadid braless as she wears a tight blue tank top in New York,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_012143,The best celebrity couples costumes of Halloween 2017,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002557,Kylie Jenner Stiffed By ‘Kardashians’,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_017142,Sofia Richie's Travel Essential Keeps Her From Breaking Out,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006515,"Plaza Hotel Launches Home Alone-Inspired ""Kevin McCallister"" Contest",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003375,Justin Bieber Desperate To Become Friends With Chris Pratt?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_013920,The Easiest Way to Create a Crown Braid in Minutes,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002518,Ashton Kutcher Calls Out Tabloid for Cheating Story: ‘These Magazines Lack Integrity’,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015442,Miranda Lambert Reportedly Needed ‘Fuel’ To Get Through Her Daily Life In Oklahoma With Blake Shelton,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000952,roll call on Stupak amendment,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_000935,"Remarks by the President on Comprehensive Immigration Reform in El Paso, Texas",0,fakenewsnet,politifact,12,False,val
+fakenewsnet_015978,Bob Harper: Howard Stern Reached Out to Me After My Heart Attack,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015737,All the TV Marathons Airing on Christmas,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000473,"To young people who are undocumented: This is your country, too.",0,fakenewsnet,politifact,11,False,val
+fakenewsnet_019955,Tracing johnny depp's steep descent from untouchable stardom,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_019660,One Direction's Liam Payne Is a Father; See the First Photo,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006845,Evangeline Lilly Blames ‘Misogynistic’ Stunt Coordinator for ‘Lost’ Set Injury,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011801,Battle of the Winter Olympics Commentary: Leslie Jones vs. Kristen Bell and Dax Shepard,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_010247,Game of Thrones Reveals Action-Packed Comic-Con Teaser Trailer,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001574,VIDEO: 'Homecoming' Teaser: Julia Roberts Is Ready to 'Get Started',1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_007451,You've Probably Been Singing These T-Pain Lyrics Wrong for Years,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013168,Whoopi Goldberg in Crocs Is the Queen of Fashion Week,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_019267,Beyonce and JAY-Z score front row seats at the Grammy Awards,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001637,"Gwen Stefani Dishes on New Baby and ""The Voice"" Gig",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004037,Kim Kardashian proves she IS a Beyonce fan,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006209,Pippa Middleton Keeps Channeling Kate at Wimbledon,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004250,Selena Gomez Missing Justin Bieber ‘Dearly’ While She’s Away In Europe: They Have A ‘Strong Love’,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004144,OK! Exclusive: Kim Kardashian Is In Love With Her Life Guru,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004807,Chris Hemsworth’s agony over Elsa’s steamy kiss,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001344,WATCH: Blake Shelton Performs In Underwear?! Sorta...,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_016807,"Blac Chyna Congratulates Kim Kardashian on New Baby Girl, Says She Deserves 'Blessings'",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_012896,Summer 2018: The Best Celebrity Vacation Spots,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_013556,Shakira and Gerard Piqué's Love Story,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003961,"Angelina Jolie Not Revenge Dating Johnny Depp, Despite Report",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004815,Does Jennifer Aniston want Brad Pitt to be her baby daddy?,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_021091,RHONY's Luann de Lesseps broke into hotel room with a man,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001105,Sean Spicer Emmys Moment: See Celebrity Reactions,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_011959,Tinsley Mortimer Reveals Her Current Status with Scott Kluth,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_014686,Simone Biles Makes Debut as Honorary Texans Cheerleader,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018728,"Sia, Zoe Saldana and Julianne Moore Team Up to Raise Awareness for HIV in 'Free Me' Music Video -- Watch!",0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_005550,Rumor Bust! There Is No $760M Prenup for Jennifer Lopez & Alex Rodriguez,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_013478,Jason Momoa and Emilia Clarke have adorable Game of Thrones reunion,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000477,"GOP Task Force, Lone Democrat Eye Trafficking Law",0,fakenewsnet,politifact,8,False,val
+fakenewsnet_020520,Paris Jackson’s Stylist Opens Up About Crafting Her Entry Into the Limelight,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_012902,Khloé Kardashian: How I Told Tristan I Was Pregnant,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000336,Archbishop Desmond Tutu dies while holidaying in Texas,1,fakenewsnet,politifact,8,False,val
+fakenewsnet_015655,This Is How Kim Kardashian Is Celebrating Her 37th Birthday,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_015487,OMG! Kris Jenner Copies Kim Kardashian and Debuts a Platinum Blond Hairdo on Kardashians,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005552,Perrie Edwards Dissing Selena Gomez’s ’13 Reasons Why?’ — It Was ‘Massively Disturbing’,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001119,Brad Pitt Could Get A Full-Time Kid In Custody Battle,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010928,"WWE Superstar Carmella on Joining 'Total Divas,' the 'Women's Revolution' in WWE",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010601,Jimmy Fallon’s Mom Dies After Canceled ‘Tonight Show’ Taping,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_010708,Avicii's Family Implies DJ's Death Was From Apparent Suicide,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_013568,Kelly Rowland sobs after having birthday lunch with 'sister' Beyonce Knowles and Jay-Z,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000988,WATCH LIVE: Tim Kaine and Corey Stewart meet for first U.S. Senate debate in Virginia,0,fakenewsnet,politifact,15,False,val
+fakenewsnet_016926,Have You Seen Tom From Myspace Lately?,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_007365,"Bob, Eliza, Bellarke fandom wins at EOnline TV Scoop Awards 2018 : The100",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005211,"David Beckham And Victoria Beckham Reportedly Bought Harper £7,000 Pony For 7th Birthday",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_010652,Inside North West's Bond With Her Famous Aunts: How They Each Hold a Special Role in Her Life,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_000153,Trump on Revamping the Military: We’re Bringing Back the Draft,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_022269,The art of the public apology,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_001670,Robert Pattinson Rihanna Going On Secret Dates Secret Dates,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006022,"Mariah Carey Has ""Skinny"" Mirrors All Over Her House and We're Inspired AF (EXCLUSIVE)",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003649,Truth Surfaces Behind Rumors Of Blake Shelton & Miranda Lambert Reunion,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003261,Jennifer Lopez and Alex Rodriguez join Marc Anthony for brunch in Miami,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_010183,Amal Clooney Gives Birth to Twins,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_021505,Introducing Playboy's 2018 PMOY Nina Daniele,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_021733,"‘Game of Thrones’ recap: ‘The Queen’s Justice’ is brutal, while Daenerys and Jon try to find common ground",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_015694,Kit Harington: I’m “more affected by [the end of Game of Thrones] than I thought I would be”,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_014390,Khloe Kardashian reveals her low-carb post-baby diet after 'losing 30 pounds' since birth of daughter True,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_016296,Celebrity Makeup Ideas and Hair How Tos,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004249,Brad Pitt thinks leaving Jennifer Aniston for Angelina Jolie was the biggest mistake of his life,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002762,Khloe Kardashian flashes wedding finger band after dating NBA beau Tristan Thompson,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009846,Behati Prinsloo shares new baby pic in Father's Day post for Adam Levine,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001413,How Ben Affleck Got Big For Batman v Superman,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000665,"Oct. 11: Levin, Graham, McCaffrey, Myers, roundtable",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_000655,Inquiry Sought in Hillary Clinton’s Use of Email,0,fakenewsnet,politifact,8,False,val
+fakenewsnet_013506,Brooke Burns Explains the Tragic Story of Her Grandparents' Deaths to Tyler Henry on Hollywood Medium,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_010429,Vanderpump Rules' Scheana Shay kisses beau Robert Valletta,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_014376,Pink Shares Hilarious Letter Her Daughter Wrote to Santa About Her Elf on the Shelf: 'Mom Fail!',0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_010461,Dancing with the Stars Judge Carrie Ann Inaba: Her Love Ups and Downs,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009663,Millie Bobby Brown Wears Converse Sneakers to 2018 SAG Awards,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_018744,Jeff Goldblum Reveals His Mom's Terrified Reaction to His Infamous Death Hoax,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_008355,Kylie Jenner Says Daughter Stormi Looks ‘Just Like’ Her,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005042,Lindsay Shookus Still NOT Pregnant Ben Affleck Baby Shocker Baby Shocker Untrue,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001359,Fifty Shades Of Dakota: 15 Things People Don't Know About Dakota Johnson,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004191,Caitlyn Jenner to Publish a Memoir About Her Transformation,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000359,Alabama Secretary of State,1,fakenewsnet,politifact,4,False,val
+fakenewsnet_002322,"Kendall Jenner Didn’t Warn Blake Griffin To Stay Away From Family, Despite Reports",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001962,"Two years on, here’s why the Brad Pitt-Angelina Jolie divorce isn’t final yet",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_004771,Drake Can’t Stop Lusting After Rihanna Now That She’s Happy With New BF Hassan Jameel,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_008796,Star Wars: The Last Jedi: BB-8 bowed to Prince William and Harry at the premiere,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000905,Top Picks (Most Requested Statistics) : U.S. Bureau of Labor Statistics,0,fakenewsnet,politifact,11,False,val
+fakenewsnet_000627,Declining Business Dynamism in the United States A Look at States and Metros,0,fakenewsnet,politifact,13,False,val
+fakenewsnet_003187,Kelsey Grammer Off Wagon Food Binge Fiction,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_012573,Who Is Zac Efron's Brother? All About His Hot Younger Sibling Dylan,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_016815,Survivor's Handling of Zeke Smith's Outing Proves It Just Might Be the Most Lowkey Progressive ...,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_009439,'The Client List' Canceled After 2 Seasons,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004416,Angelina’s kids speak out: We want to live with our dad and Jennifer Aniston,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004917,Devastated Johnny Depp Begging For Ex-Wife Vanessa Paradis Back!,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_015027,Lorde Finally Speaks Out About Those Jack Antonoff Dating Rumors,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001339,"Brad Pitt, accused of child abuse, is under investigation",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_013231,Super Bowl selfie kid gets another surprise from Justin Timberlake,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_008037,Ivanka Trump Changed Her Eye Color And You Missed It,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004658,Hugh Jackman reportedly ‘flips out’ off-camera after losing best actor to James Franco,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009216,How Will Meghan Markle and Prince Harry Spend Their First Christmas as a Married Couple?,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_002458,Miley Cyrus: 10 INCREDIBLE Naughty Vs. Nice Moments,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004630,Ben Who? Liam Neeson Taken With His ‘Ultimate Dream Woman’ Jennifer Garner,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_019411,Pippa Middleton wedding: Best man speech compared bride to ‘a loyal dog’,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_005323,7 Things You Didn’t Know About Ashlee Simpson And Evan Ross’ Relationship,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001261,Is Lindsay Lohan opening a second club in Greece?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004652,"People Are Accusing Meghan Markle Of Starving Herself For The Wedding, & It's Hugely Problematic",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001247,Tom Cruise Hired Dating Coach?,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_003825,Jennifer Holliday Backs Out of Trump Inauguration Performance,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_017321,Hackers Threaten to Leak Upcoming 'Pirates of the Caribbean' Unless Disney Pays Ransom: Reports,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000584,"Saudi Arabia Energy Data, Statistics and Analysis",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_003657,Chadwick Boseman: why 'Black Panther' needed African accent,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006067,Brad Pitt’s Divorce From Angelina Jolie Reportedly ‘Took A Toll’ On His Looks,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000613,"The first Trump-Clinton presidential debate transcript, annotated",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_000274,Red Hen Owner Just Issued Sick Threat To Sarah Sanders After Biz Was Destroyed By Booting Her,1,fakenewsnet,politifact,17,False,val
+fakenewsnet_006328,Khloe Kardashian & Tristan Thompson: Why She’s Hoping Baby Comes During NBA All-Star Break,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_013669,Look what you made her do: decoding the disses of Taylor Swift's new video,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_020959,Team USA Snowboarder Chloe Kim Prepares to Break Records at 2018 Winter Olympics,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002165,Sofia Richie and Scott Disick Prepare to Sign a $200 Million Prenup (EXCLUSIVE),1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_002545,Douchebag Ben Stiller Tries To Play Down Dating Brandi Glanville,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017848,20 Inspiring Beyoncé Quotes About Motherhood – SheKnows,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006242,Melissa McCarthy On Why She 'Roots For' Online Trolls,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_014258,Celebrate Selena Gomez's New Single Back to You by Voting for Her Most Iconic Music Videos on People’s Choice Awards,0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_000987,"Everything you need to know about the drone debate, in one FAQ",0,fakenewsnet,politifact,12,False,val
+fakenewsnet_001252,Humiliation for Kris Jenner: Why toyboy Corey dumped her,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005849,Kim Kardashian Trolling Her Own Bikini Pic on Instagram Is Everything,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003120,David Letterman: Retired Host Risks Fortune On Gambling Obsession,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008755,DJ Slips Prince Harry His Business Card in Bid for Wedding Gig,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001453,"Nicole Kidman is helping Isabella Cruise adopt a child, report",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_014834,Kate McKinnon Nails Her Gal Gadot Impression (Video),0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_021284,"Madonna announces move to Portugal, plans for new music",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000064,"Kasich: “If A Woman Is Not Intelligent Enough To Keep Her Legs Closed, How Can We Entrust The Abortion Decision To Her?”",1,fakenewsnet,politifact,22,False,val
+fakenewsnet_014629,Laguna Beach’s Lo Bosworth Is Not a Fan of Vagina Steams,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020522,Winter Olympians Have Access to a Record Amount of Condoms,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_009068,James Franco Feels 'Relieved' About Oscar Snub Amid Claims of Sexual Misconduct Made Against Him,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003972,FlipFlops On Liam Payne Marrying Cheryl Cole,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_002070,Does Caitlyn Jenner Have A Blonde Girlfriend? New Report Claims She’s Dating Again,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_015760,Saturday Savings: Dakota Fanning's Shearling Coat Is on Sale Now!,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005876,Selena Gomez Wants ‘Perfect BF’ After Failed Justin Bieber Romance: Her Deal Breakers Revealed,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_014048,Kim and Khloé Kardashian: Rob Should Have 'Controlled Himself' During Blac Chyna Drama,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006371,"'The Voice': Blake Shelton Gets Jealous as Gwen Stefani Fawns Ov - CBS News 8 - San Diego, CA News Station - KFMB Channel 8",1,fakenewsnet,gossipcop,25,False,val
+fakenewsnet_005828,Justin Theroux flashes beard while with 'girlfriend' Petra Collins,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005768,"Meghan Markle, the fashionista facing a royal makeover",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005491,Jennifer Aniston & Brad Pitt Secret Rumored Meetings Driving Angelina Jolie Insane With Jealousy,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003967,Beyonce & Jay-Z Hire 18 New Employees After Twins Sir and Rumi’s Arrival,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_019207,"Nikki Bella Is ""Really Disappointed"" in Brie for Asking Daniel Bryan to Put in a Good Word for Her at WWE: Watch!",0,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_019869,The Unstoppable Rise of Clean Beauty and the Celebs Betting Their Careers on the Movement: An Insider’s Look,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_008435,Stephanie Pratt accuses Jonny Mitchell of 'cheating and abuse',0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004910,Khloe Kardashian & Tristan Thompson Still Struggling With Baby Name: How They’ve Enlisted Help,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_013508,Mama June's Diet Trick That Kept 300 Lbs of Weight Loss Off,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_008697,Justin Hartley's Wife Chrishell Stause,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_002695,"Meghan Markle Not Lonely, Frustrated As She Adjusts To Royal Life",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001295,Demi Lovato’s Sexuality: 5 Fast Facts You Need to Know,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_007924,We Surprised SAG Awards Host Kristen Bell With a Heartwarming Video from Hurricane Irma Seniors,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021984,Alicia Silverstone’s Son Tried to Kiss Her After Watching ‘Clueless’,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006247,"Katie Holmes, Jamie Foxx Battling Over Prenup?",1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003968,Making It Official? Sources Say Jamie Foxx And Katie Holmes Are Getting Married!,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001193,Is Kathy Griffin’s Career Over? Top Crisis Managers Weigh In,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013528,"Hayley Kiyoko Calls Rita Ora's 'Girls' 'Tone-Deaf,' Worries It Does 'More Harm Than Good' for LGBTQ Community",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_003619,New Report Reveals How Suri Cruise Is Desperate To See Tom Cruise After He Missed Her 12th Birthday Party,1,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_023106,Missy Franklin in the News at Regis Jesuit High School,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013591,Cheap Swaps for High-End Makeup,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_012024,"Kendrick Lamar, The Weeknd, Lorde, And More To Perform At The 2017 MTV VMAs",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_021205,Hank Baskett reveals 'affair' to Kendra Wilkinson on Marriage Boot Camp,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001822,Orlando Bloom Ready To Start A Family With Katy Perry? He Admits He Wants More Kids,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_013482,Sam Rockwell and Leslie Bibb Give Saucy Relationship Tip on SAG Awards Red Carpet,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_007288,Eva Longoria Lists Her $3.8 Million Hollywood Mansion Weeks Ahead of Baby's Birth,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009727,Josh Duhamel Defends Ex Fergie's National Anthem Performance,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_019926,"Led by Aly Raisman, more than 140 Larry Nassar victims accept Arthur Ashe Courage Award at ESPYS",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_007384,John Cena Tweets About ‘Messing Around’ Amid Nikki Bella Reconciliation Rumors!,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003403,Who Will Be Meghan Markle's Maid of Honor?,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005770,Jennifer Aniston casually dating again,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_000003,Oscar Pistorius Attempts To Commit Suicide,1,fakenewsnet,politifact,6,False,val
+fakenewsnet_011797,Prince George Is Hilariously Silenced by His Cousin After Getting Rowdy at Trooping the Colour Parade,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004460,Hollywood Stars Slam House Vote for Obamacare Replacement,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005898,This Is How Kate Hudson's 7-Inch Golden Globes Haircut Came About,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003408,Chris Soules Breaks Silence On Fatal Accident: I’m ‘Overwhelmed With This Tragedy’,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001316,Is Billy Bush Begging To Be On ‘DWTS 2017?’ [UPDATE],1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_012154,James Van Der Beek and Wife Kimberly Welcome Baby No. 5!,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006108,Nicole Kidman and Keith Urban take PDA to a new level on Cannes red carpet,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000210,"The pro-Russia, pro-weed, pro-Assange GOP congressman who will be tough to beat",1,fakenewsnet,politifact,12,False,val
+fakenewsnet_004329,Taylor Swift Spent Her Fourth of July in Turks and Caicos with Boyfriend Joe Alwyn,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003144,Prince Harry and Meghan Markle Want Babies “Right Away”,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004615,Eva Longoria Says 'Everything's Uncomfortable' in Pregnancy,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000364,Australia Becomes First Country To Begin Microchipping Its Citizens,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_004335,Kris Jenner begs Kourtney Kardashian to take over the Kardashian empire,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003440,Here's Why Kylie Jenner Decided to Stop Sharing Pictures of Stormi,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000208,FBI uncovered Russian bribery plot before Obama administration approved controversial nuclear deal with Moscow,1,fakenewsnet,politifact,14,False,val
+fakenewsnet_014169,What Is Jenna Dewan-Tatum Wearing? She's Practically Naked!,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001354,Taylor Swift Upset Ed Sheeran Slept With Members Of Her Girl Squad? The Truth,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004123,Jennifer Aniston holds hands with Justin Theroux on NYC dinner date amid Brangelina divorce scandal,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_014652,Are one piece swimsuits too frumpy?,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_000585,U.S. Solar Market Insight Report,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_006311,Why Fans Are Upset About Kim Kardashian's Comments On Her Own Body,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_021530,Do we really need a Twilight Zone revival in the era of Black Mirror?,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_022664,Bradley Cooper & Irina Shayk Have Reportedly 'Gotten Even Closer' After Baby Lea's Birth,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005618,Environmentalist Leonardo DiCaprio Used Seaplane To Party Hop Around Maldives?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000467,"No, We Can’t? Or Won’t?",0,fakenewsnet,politifact,5,False,val
+fakenewsnet_002654,Beyonce & Jay Z Hope To Bring Their New Twins Home Soon: ‘They Look Just Like Their Father’,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_003686,'The Voice': 10 Things We Know About Gwen Stefani and Blake Shelton's Relationship,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_008385,Jimmy Kimmel: Why He Ignored Weinstein Scandal – Variety,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004534,Brad Pitt And Angelina Jolie’s Sons Pax And Maddox Not Feuding As Their Parent’s Split Drags On?,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_006031,The X Factor (UK series 5),1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_002631,Blake Shelton Gwen Stefani Supporting Supporting Jason Aldean Made Up To Exploit Las Vegas,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_006937,Dylan Sprouse Responds to Allegations He Cheated on Dayna Frazer,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000143,Melania Just Hit Donald Trump With Shocking Announcement He Never Saw Coming,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_019582,Audrina Patridge and Ryan Cabrera: The Real Reason This Celebrity Couple Split Up (Again),0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_020736,Mysterious Woman Possibly Dropped Off Beyoncé Baby Gifts at Los Angeles Hospital (UPDATE),0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_010125,Kylie Jenner and mother Kris visit Peru on charity mission,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002241,Angelina Jolie Hires Crisis Manager Who Inspired Olivia Pope,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002530,Angelina Jolie was in 'hospital' and 'wasting away'?,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005838,Tobey Maguire Scored Emma Stone’s Phone Number?,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003032,Nicole Kidman Pregnant Report,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_001282,Animal lover Robert Pattinson reveals how his rescue dog became a pampered pooch overnight,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_018664,Mary-Kate Olsen Poses With Husband Olivier Sarkozy in Rare Public Appearance at 'Nude Art' Party,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_013488,"Taylor Swift Isn't Alone: Selena Gomez, Ed Sheeran and More Stars Who Took a Break From the Spotlight",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_003526,"Katy Perry and Orlando Bloom ‘back together’ 11 months after split, claim friends",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005571,"Steve Harvey To End Daytime Talk Show, Launch New One With IMG & NBCU",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002783,Why Princess Diana’s Jewelry Might Start Appearing in Public More,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021868,Met Gala 2017: Stars share photos from their glam rooms,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005855,Selena Gomez Justin Bieber NOT Reconnecting Reconnecting Despite Reports,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006211,Here's Where Things Stand With Kim Kardashian and Kanye West,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017020,Christina El Moussa and Boyfriend Ant Anstead Show PDA,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004707,Why Kate Middleton and Prince William Don't Show PDA Like Prince Harry and Meghan Markle,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001329,"Beyoncé and Husband JAY-Z Experienced a Difficult Delivery During the Birth of Their Twins: ""There Was a Lot of Drama"" (EXCLUSIVE)",1,fakenewsnet,gossipcop,21,False,val
+fakenewsnet_000390,IT BEGINS: California Appoints FIRST Illegal Alien to State Office – Trump Has Better Plan,1,fakenewsnet,politifact,15,False,val
+fakenewsnet_010387,How 'Crazy Ex-GF' Star Donna Lynne Champlin Kept a Straight Face Singing 'First Penis I Saw' (Exclusive),0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_022298,Victoria Beckham's $2 Fashion Advice Is Worth Every Penny,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001709,"Kylie Jenner family mural has Scott Disck, not Tristan Thompson",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000702,FDIC: FIL-14-2005: Revised Examination Guidance,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_001741,"Trump administration, politicians and celebrities react to Sean Spicer’s resignation",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_015325,'Jersey Shore' Cast Snaps Selfies as They Head to Miami for Show's Reboot,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005179,Grammys 2018: Complete list of winners and nominees,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_010629,Olivia Munn wipes away 'luscious lips' created by makeup,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003006,Is Gwen Stefani Forcing Blake Shelton to Sign a Prenup?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_022276,Game of Thrones fans freaked out after Jon Snow and Daenerys Targaryen’s first meeting in the latest episode,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_010319,Kate Middleton recycles DVF dress and wears Queen's earrings to Palace Gala,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000532,05/27/99 Committee on the Judiciary,0,fakenewsnet,politifact,5,False,val
+fakenewsnet_002755,Kylie Jenner ADMITS She Wants To Marry Travis Scott!,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001650,Royal life is ruining Meghan Markle’s sexy style,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_016806,‘Shameless’ Star Ethan Cutkosky Reaches Plea Deal in DUI Case,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003578,"Kristen Stewart, Robert Pattinson 2018: Actress Rumored To Direct Their Next Film Together And Quit Acting",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001579,Drake NOT Angelina Jolie s Toy Boy Toy Boy Despite Late And Wrong Report,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005063,Gwen Stefani & Blake Shelton Secretly Married For 6 Mos.? Report Claims They’re In Wedded Bliss,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000388,Pope says that the rights of Muslim migrants trump any safety concerns that you might have with them in your country,1,fakenewsnet,politifact,21,False,val
+fakenewsnet_003367,Katie Holmes and Jamie Foxx 'split and call off wedding' after five years of secret romance,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_006669,"Kim Kardashian Doesn't Want Kendall Jenner To Get A Gun: ""I Wouldn't Want My Kids Around It""",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_003853,Harry Styles And Taylor Swift Back Together? Are The Power Couple Of Pop Past Dating Again?,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_006340,"Halle Berry Is Officially ""Done with Love""",1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_021460,‘Road Rules’ star Danny Dias’ cause of death revealed,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003795,Angelina Jolie: Meet my new man,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_006674,Allison Janney Celebrates Her Oscar Win With Shirtless Hunks on 'Ellen' - Watch!,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_008372,"The 100 Season 5 Spoilers — Octavia’s Redemption, New Interview",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011106,EXCLUSIVE: Farrah Abraham Storms Off 'Marriage Boot Camp' After Confronted With Remarks She Made About Her Mom,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_018761,Jeopardy Just Made History With Its First-Ever Sudden Death Tiebreaker,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013193,Stars Share Ahead of Golden Globes 2018,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000204,BREAKING: Supreme Court Issues Its First Bench Warrant Ever,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_019725,Kim Kardashian News Plus Instagram and Snapchat Updates,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_008974,Denim Trends Sienna Miller Bella Hadid and More Are Wearing This Spring,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004298,"Justin Bieber & Kourtney Kardashian: Why The Exes ‘Still Talk,’ But Selena & Younes Shouldn’t Worry",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000361,BREAKING: PUTIN INTERFERENCE COULD GIVE COURTS LEGAL RIGHT TO MAKE HILLARY PRESIDENT,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_001383,Kate Middleton will never be jealous of Meghan Markle; here's why,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_014411,Megan Learns Terence Made A Person Vanish on The Arrangement,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_018724,Royal wedding: all the official photographs of Prince Harry and Meghan Markle,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003607,Brad Pitt Jennifer Aniston Secret Hideout Hills,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_021795,Jesse Williams ordered to pay estranged wife $160K,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002379,Celebrities say goodbye to Barack Obama after farewell address,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011771,Was Taylor Swift's Fourth of July party all as it seems? Fans share theories following star-studded bash,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_021064,Vote Malec for TV's Top Couple!,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_017287,Ranking the Black Panther Cast's Best Off-Screen Moments,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_019791,Ashlee Simpson’s Stylist Shares a Trick for Perfect-Fit Jeans,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_009687,Nikki Bella Gets Some Important News About Going to WrestleMania 33 in Total Bellas Sneak Peek,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_012269,TIME Firsts Women Leaders: Selena Gomez,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_021102,"BTS! BTS! BTS Just Performed ""Fake Love"" At The Billboard Music Awards And It Was Phenomenal",0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002115,Mariah Carey's Sister Claims Their Mother Is Leader Of Satanic Cult,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000637,"He says universal, but it's no guarantee",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_006872,This Is Us Helps NBC Reclaim the Season Ratings Victory in the 18-49 Demo,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003882,People can't stop wondering if Selena Gomez reacted to Justin Bieber's engagement — but everyone's concern is unnecessary and sexist,1,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_005655,Nick Jonas Shows Off His Massive Biceps After the Gym,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002007,Nina Dobrev & Orlando Bloom Are ‘More Than Friends’ — Is He Already Over Katy Perry?,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004012,Kim & Kanye Install At-Home Panic Room After Paris Robbery,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004360,"Eva Mendes Gives Ryan Gosling Ultimatum, Rumor",1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000171,Clinton Foundations Sends Water To Houston For $7 A Bottle,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_016351,‘Once Upon A Time’ To End With Season 7 On ABC,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_016221,How to Work Out Like Gwyneth Paltrow With the Tracy Anderson Method,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002978,Tom Cruise Vetting Vanessa Kirby To Be Fourth Wife Fake Story,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007443,Alex Rodriguez's 12-Year-Old Daughter Sings For Jennifer Lopez (PHOTOS),0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_017357,Jennifer Garner & Josh Duhamel Called the 'Perfect Couple' After He Admits She's an 'Incredible Woman',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_016667,Kris Jenner Hilariously Sent to a Dollar Store by Ellen DeGeneres,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_016298,"Happy 10th Anniversary, ‘KUWTK!’ The 15 Most Viral Kardashian GIFs of All Time (PHOTOS)",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003057,Who would have thought Kylie would be the most successful Kardashian?,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020206,Gigi Hadid Showers Zayn Malik With Love in 25th Birthday Tribute – TheRompDev,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000224,NASA ANNOUNCED THAT IT COMMUNICATED WITH FOUR RACES OF ALIENS,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_000370,Bill Gates Outlines 2018 Plan To Depopulate The Planet,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_008115,The Roseanne Revival's Big Finale Problem: ABC Boss Reveals Key Details,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_012124,"Stranger Things season 3 confirmed, season 4 likely",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011374,Caitlyn Jenner is 'disappointed' at Kylie's 'pregnancy',0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_011507,Did Aaron Rodgers’ family feud carry over to Christmas?,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_020164,BTS Brings Down the House at 2017 AMA’s,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000057,Man charged with murder after driving into anti-far-right protesters in Charlottesville,1,fakenewsnet,politifact,11,False,val
+fakenewsnet_013998,Makeup artist accuses Ben Affleck of groping her,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001363,How Jerry O'Connell Knew He Wasn't Going to Get the Job on Live! With Kelly,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001512,Rachel Weisz Splits With Darren Aronofsky—Does Daniel Craig Figure In?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020893,"Kylie Jenner is pregnant, according to reports",0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004754,Kourtney Kardashian’s Pregnancy Scare With Younes: Why She’s Teasing Scott About It,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006721,WAGS Atlanta Is Almost Here! Get Ready to Go Down South With the Stars' Sexiest Pics,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001571,"Katie Holmes’ trials: Fighting reports about a Jamie Foxx breakup and a Tom Cruise, Suri reunion",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_006519,Gwen Stefani Gives Spring Knitwear a Rock and Roll Twist,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006829,Charlize Theron still upset Aeon Flux didn’t work,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_006702,Justin Bieber Surprises Fans at Children's Hospital of Orange County,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016964,Allow the Riverdale Cast to Stare Into Your Soul in Ominous Season 2 Key Art,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000481,Remarks on counterterrorism at Stanford University,0,fakenewsnet,politifact,6,False,val
+fakenewsnet_003869,Speculation that Jennifer Lawrence to blame for Faris Pratt split,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_018230,You Can’t Have Breakfast at Tiffany’s,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_007900,Robert Pattinson Explains How 'Twilight' Changed His Life,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_012620,Bradley Cooper Photobombs Brad Pitt and Makes Onstage Appearance at Glastonbury,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000534,No MidOct Paycheck for Troops if Government Shuts Down Lawmaker says,0,fakenewsnet,politifact,11,False,val
+fakenewsnet_011704,Kristen Bell and Ted Danson Dish on ‘The Good Place’ and Their Real-Life Bad Places,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_016097,Lana Risks Getting in Trouble With the WWE in Order to Get a Rematch: “At Least I’ll Live With No Regrets!”,0,fakenewsnet,gossipcop,21,False,val
+fakenewsnet_002760,‘Ballistic’ Khloe Kardashian may be having contractions; family rushes to Cleveland,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001497,Miley Cyrus Liam Hemsworth Honeymoon,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_007498,HGTV Life Styled,0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_005434,Gwyneth Paltrow Page 7,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_008551,Victoria's Secret Models Reveal How To Look Runway Ready When Traveling,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002092,Emma Stone and Ryan Gosling 'used body doubles in La La Land',1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_014289,John Stamos and Caitlin McHugh Are Honeymooning at Disney World,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010537,Mandy Moore Is the New Face of Garnier,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_010563,Will Smith & Jada Pinkett Smith Celebrate 20th Anniversary,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002795,"Steven Spielberg and Meryl Streep on Trump, News and Why 'The Post' Had to Be Made Now: ""Everyone I Know Is Scared""",1,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_010240,The Rock praises boy who saved drowning brother with help from San Andreas,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_007842,Khloé Kardashian Gets Real About Post-Baby Weight: ‘I’m The Queen Of Yo-Yoing’,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000381,WE WILL RIOT! Michelle Obama’s Mom Will Receive $160k Every Year Out Of Taxpayers’ Pockets!,1,fakenewsnet,politifact,15,False,val
+fakenewsnet_003710,Nick Cannon Says He’s Leaving ‘America’s Got Talent’ After Threats Of Firing Over Racial Joke,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006445,Luis Fonsi and Daddy Yankee React to Zero Grammy Wins for 'Despacito',0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001297,"Happy birthday, Kathie Lee! See Kris Jenner and Craig Ferguson’s sweet messages",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017365,Hugh Grant says he wishes he got married earlier: 'I should have done it before',0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_018373,JoJo Fletcher and Jordan Rodgers Celebrate One-Year Together,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_008430,Taylor Swift visits 8-year-old Phoenix burn survivor in hospital,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011296,Harry Styles Won’t Deny That He Wrote ‘Two Ghosts’ About Taylor Swift,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001755,All the times Caitlyn Jenner has shaded the Kardashians and they've shaded her right back,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004158,JayZ Dazed Confused,1,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_010879,Marvel's 'Cloak and Dagger' Renewed for Season 2 at Freeform,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000684,"Health Reform Carries Heavy Price, Insurers Claim",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_010103,Eminem Said He Uses Tinder And Grindr To Find Dates And Some Fans Are Confused,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004868,Robert Downey Jr Illuminati Blood Sacrifice,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_011631,Scott Disick enjoys night out with 'girlfriend' Ella Ross,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_018054,Michael Phelps and family celebrate Boomer's first birthday,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003405,"Blake Shelton's Friends Were Shocked He Snagged Gwen Stefani: 'They Were Like, ""What in the Hell?""'",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002166,Justin Bieber Desperate To Show Selena Gomez’s Mom He’s Changed — How He Plans To Prove It,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_009540,Steal Her Shade: Celebrity Lipsticks and Nail Polishes,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_022122,Ultimate Pop Diva Tournament: Vote for Which of the Final Two Ladies Deserves to Take Home the Title,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_011022,Twitter says it locked Rose McGowan’s account because she posted a phone number,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001621,Angelina Jolie's fury as Brad Pitt and Jennifer Aniston move in together,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009450,Inside Audrina Patridge and Corey Bohan's Tumultuous Decade Together,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_009788,Jesse Williams (actor),0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_003340,Gwen Stefani shuts down rumours she was 'dumped' by Blake Shelton over 'jealousy and drama' with loved-up snap,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_001023,Library of Congress,0,fakenewsnet,politifact,3,False,val
+fakenewsnet_019829,How Medalion Rahimi Overcame Bullying to Become Shondaland’s Next Muse,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010095,Video Of Louis Walsh Grabbing Mel B’s Butt Sparks Sexual Harassment Debate,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001866,Hong Kong woman 'tricked' into marrying a STRANGER in China,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000160,Lady Gaga on Twitter,1,fakenewsnet,politifact,4,False,val
+fakenewsnet_006236,Taylor Swift and Boyfriend Joe Alwyn Are 'Very Much in Love',1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002823,Amal Clooney Rejects Angelina Jolie’s Peace Offering,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_018652,Relive Thomas Rhett's Cutest Dad Moments On and Off Stage,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017387,"Jax Taylor, Brittany Cartwright, Lala Kent Slam James Kennedy",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_020408,Megan Fox & Brian Austin Green Get Steamy in Hawaii,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000898,Poor and the nearpoor 1959 to 2006,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_002320,"Nicole Kidman, 51, and Keith Urban, 50, 'are planning baby number three'",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000166,BREAKING: Monica Lewinsky Found Dead In Roslindale,1,fakenewsnet,politifact,7,False,val
+fakenewsnet_011646,E! Cancels Scripted Series 'The Arrangement' After Two Seasons,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005104,The pictures that have fans convinced Katie Holmes is pregnant,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011661,Amber Heard feels being a role model is a burden – The Siasat Daily,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003502,"Jennifer Aniston Does Not Hate Matthew Perry, Despite Report",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005473,Kate Middleton Reportedly Has a Secret Account on a Popular Parenting Website,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_021688,"Gwen Stefani Attends Wedding with Blake Shelton, Dances to 'Hollaback Girl' at Reception: Watch!",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001200,Jesse Plemons Skipped Kirsten Dunst’s Movie Premiere To Avoid Wedding Questions?,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004558,"Gwen Stefani Pregnancy Rumors Don’t Bother Blake Shelton, Says Source",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_014052,People Are Still Asking Maggie Gyllenhaal If She Has Taylor Swift's Scarf From 'All Too Well',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004328,Robert Pattinson & Katy Perry Caught Making Out At LA Cafe: They’re ‘Totally A Couple’ — Report,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_004679,People Need To Have More Chill About A Jennifer Aniston-Brad Pitt Reunion,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_019824,Hollywood’s Most Powerful Stylist Shows Us How to Wear a White Tee,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002301,Gigi Hadid and Bella Hadid's Cutest Pictures,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_016752,List of awards and nominations received by Kendrick Lamar,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_021718,Shailene Woodley kisses beau Ben Volavola from sidelines,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002620,All the times Alex Rodriguez was enamored with Jennifer Lopez at the VMAs,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003347,Selena Gomez and The Weeknd Are Already in Trouble (EXCLUSIVE),1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000346,Maxine Waters Is Getting Criminally Charged!,1,fakenewsnet,politifact,6,False,val
+fakenewsnet_003168,Sofia Richie Fed Up with Scott Disick’s Obsession With Kourtney: Can’t Take Much More – Source,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000587,Obama: Gitmo inspires jihadists,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_001532,Paris Jackson's family fear she's heading for meltdown,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000307,Prince William May Not Attend Royal Wedding Leaving Harry Without a Best Man; Princess Diana Would Not Be Happy,1,fakenewsnet,politifact,19,False,val
+fakenewsnet_004572,Celebrity Insider Caught Plagiarizing Cop FactCheck About Brad Pitt Jennifer Aniston,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006822,American Horror Story: Cult Recap: Send in the Clowns,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006091,Harrison Ford Did Snub Carrie Fisher ’ s Funeral Over Affair Revelation Report,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006383,Celine Dion donates concert proceeds to Vegas shooting victims,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006127,Russell Crowe breaks his silence on his 'relationship' with Terri Irwin,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006180,"Debunking the week's tabloid stories: Dec. 22, 2017",1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002727,The comment from JLaw that has fans convinced she and Joel Edgerton are an item,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003217,How Tina Fey messed up ‘Mean Girls’ musical,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_015896,Paris Jackson Shares Rare Photo of Her Youngest Brother Blanket on Christmas,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004522,Miley Cyrus and Liam Hemsworth Still Together Despite Breakup Rumor (Exclusive),1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004253,Report That Blake Shelton Will Propose To Gwen Stefani On Valentine’s Day Is Untrue [Debunked],1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_011728,Once Upon a Time Cancelled,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_002139,Brad and Ange back together,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_002646,"Jessica Simpson’s Bikini Body Pics Lead To Bogus Depression, Weight Gain Claims",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000493,"Transcript: The Democratic debate in Milwaukee, annotated",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_004941,Victoria & David Beckham Heartbreaking $1 Billion Divorce? The Truth,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_015192,"Kylie Jenner, Kanye West on TIME's Most Influential People on the Internet",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004780,Jay-Z had to put up a fight to save his marriage with Beyoncé,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001131,A plastic surgeon weighs in on all of the procedures Kylie Jenner might have had done,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000163,Thinking about writing in a candidate on Election Day? Read this before you do.,1,fakenewsnet,politifact,14,False,val
+fakenewsnet_003132,Celebrities React Anthony Rapp Reveals Kevin Spacey Made Sexual Advance On Him At 14,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016647,'Hollywood Medium' Tyler Henry Brings Nico Tortorella To Tears,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_012439,Miranda Lambert Makes History at the 2018 ACM Awards,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_021938,"Miss USA Kára McCullough: ""Yes, I Would Say I'm a Feminist""",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_020213,"‘Unbreakable Kimmy Schmidt’: Too good for NBC, but still not that great",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_015188,"Travis Scott, Kylie Jenner wrap up huge weekend in Houston",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_007332,Khloé Kardashian Reflects on Post-Baby Workouts,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_007141,Here's the biggest news you missed this weekend,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005304,Ivanka Trump issues direct condemnation of 'white supremacy and neo-nazis',1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_004177,"Taylor Swift's Original Ex-Boyfriend Lyric in ""Gorgeous"" Is Telling",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000062,BREAKING: Sasha Obama Just Crashed Her Expensive New Car Into A Lake,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_004753,Ariana Grande: 'Rihanna wasn't laughing at my dance moves',1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_017380,Nikki Bella’s time on Dancing With The Stars came to a shocking end,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009521,Sam Claflin Says Male Actors Get Body Shamed Too: ‘I Felt Like a Piece of Meat’,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_009525,"SNL: Season 43 Episodes, Ranked",0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_019822,The Most Surprising Revelations From the New Dolly Parton Book — Including the Time She Contemplated Suicide,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_020457,Stephen Colbert Blames Donald Trump For 15-Pound Weight Gain: ‘I Drank A Lot Of Bourbon’,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006507,Lily Collins Was Praised for Losing Weight to Play Anorexic Character,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005196,Puppy Bowl 2018 Live Stream – Watch Online,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004623,Jen Threatens Justin: Stay Away From My Friends!,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001207,Is Chris Hemsworth breaking up the Ben Affleck-Matt Damon friendship?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_017547,18 Denim Rompers That Will Be Your Grab-and-Go Summer Outfit,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002001,"Beyonce, Shawn Mendes & More Stars Tweet Support For Earthquake Victims in Mexico City",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002904,New Couple Emma Watson and Robert Pattinson Seemingly Go Public at 2018 Golden Globes (EXCLUSIVE),1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_018315,"Ensa Cosby, daughter of Bill Cosby, dies at 44",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008530,Prince Charles and Camilla are all smiles in their annual Christmas card,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003269,Kim Kardashian's Tweet About Kylie Jenner's 'Forbes' Cover Proves She's Far From Jealous,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001885,Justin Bieber: Spending Alone Time With Selena Gomez Is The Only Gift He Wants On His Birthday,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_004042,Jessica Simpson confirms her second baby bump,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005202,Katy Perry And Madonna's RAUNCHY Photoshoot,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_000597,John McCain for President,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_017519,Shia LaBeouf Breaks His Silence on 2017 Arrest: ‘I F–ked Up’,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_000435,Democratic Leaders Say House Democrats Are United Against GOP Default Act,0,fakenewsnet,politifact,11,False,val
+fakenewsnet_005810,"Megyn Kelly Today, Today: Wasting Away Again In Megynkellyville",1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004288,What’s Going On With Katie Holmes and Jamie Foxx?,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004291,Mariah Carey’s twins steal spotlight at Hollywood Walk of Fame,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_022845,Fans Think Blake Lively's Daughter Is the One Saying 'Gorgeous' in Taylor Swift's New Song,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005540,Kim Kardashian shares family Christmas card,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_000939,Americas 5 Best Governors,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_004402,Queen isn’t disappointed with Meghan Markle over first public outing with Prince Harry,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000949,transcript accessed via Nexis Mitt Romney Sends Taped Message to 2011 NRA Convention,0,fakenewsnet,politifact,13,False,val
+fakenewsnet_009828,How Armageddon Rocketed Ben Affleck to Heartthrob Movie Star Status,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006880,Kim Kardashian's Psoriasis is Almost Completely Gone,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_002951,Trump Bans Transgender People in Military: Celebrity Reactions,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000789,Children - Obama for America TV Ad,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_002319,Alex Rodriguez responds to girlfriend Jennifer Lopez's comments on marriage (exclusive),1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007691,Kim Kardashian Appears Nude and Touches Herself in NSFW Fragrance Ad,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_009849,Tyrese Gibson Expecting Daughter with Wife Samantha,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001142,Brad Pitt: A Life So Large,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_005822,Selena Gomez's Reported Reaction To Justin Bieber's Engagement Confirmation Seems Like IDGAF,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_021130,Jennifer Garner's 'Pretend Cooking Show' is making us pretty hungry,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005840,Kourtney Kardashian Demanding Kris Jenner Kick Scott Disick Show Report,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000149,Stephen Bannon: “Nobody Can Blame You For Beating Your Wife If It’s Out Of Love”,1,fakenewsnet,politifact,15,False,val
+fakenewsnet_001334,​Angelina Jolie Is Secretly Dating a Handsome Older Guy,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008922,Carrie Underwood’s Best CMA Awards Looks [PICTURES],0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005352,Caitlyn Jenner Pushing Kanye West For Presidency Campaign Amid Kardashian Backlash Over Trump Support,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004294,Jennifer Aniston laughs off Oscar snub,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_004368,"Meryl Streep’s strong speech against Donald Trump at Golden Globes gets thumbs-up from Hollywood, Bollywood",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010408,Inside Gisele Bündchen's BAFFLING diet,0,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_006347,Justin Bieber 'caught with mystery blonde' amid Selena Gomez 'break-up',1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020160,The top interior design trends for millennials,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_002489,Yahoo News - Latest News & Headlines,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003723,A Moment of Silence for the Forgotten First Husbands of Pop Music Divas,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009958,Kesha’s “Learn To Let Go” Highlights Her Uplifting Method Of Moving On — VIDEO,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002076,Pregnant Jessica Simpson Shows Off Massive Baby Bump in Pre-Birth Girls' Day Out,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001104,50 Celebrities React to Donald Trump's Immigration Order,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_009528,Eniko Parrish Accepts Kevin Hart’s Apology In Alleged Extortion Scandal,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021372,Hugh Hefner's Cause of Death Revealed,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_006545,'Pink' or 'teal' sneaker sparks another Internet color debate,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_011151,Angelina Jolie had random drug testing on Tomb Raider,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002675,"Tyga Misses Kylie Jenner so Much, He ""Kicks Himself Every Day"" Since Their Split (EXCLUSIVE)",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_000680,"Call 'Islamic terrorism' what it is: a threat to West, Jeb Bush says",0,fakenewsnet,politifact,13,False,val
+fakenewsnet_019953,"This Is Us producers on three-Kate scene, Jack and Rebecca's reunion",0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_016226,Melania Trump Settles With Daily Mail Parent Over Escort Story,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000923,"Table of Known Nuclear Tests Worldwide, 1945-1996",0,fakenewsnet,politifact,7,False,val
+fakenewsnet_000753,MoveOn.org Political Action: General Petraeus or General Betray Us?,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_001230,Madonna allowed to adopt four-year-old twin girls from Malawi who lost mother,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_007666,15 Times Hilary Duff Got Real AF About Motherhood,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002044,Why You Need a Comprehensive Over-The-Top Strategy. And Now.,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_018090,Actors say Lyle and Erik Menendez 'deserve parole',0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_020010,Caitlyn Jenner Attends ESPY Awards with Rumored GF Sophia Hutchins,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003677,Bruce Willis Heart Attack Worries After Public Collapse,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000660,Text - H.R.2122 - 106th Congress (1999-2000): Mandatory Gun Show Background Check Act,0,fakenewsnet,politifact,13,False,val
+fakenewsnet_001498,From Welcoming a Baby Together to Their Joint GQ Cover: Inside Kylie Jenner & Travis Scott's Whirlwind Romance,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_012338,"The Difference Between BB, CC and DD Creams",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005155,"WATCH: 'I'm always the last to hear about it, says Trevor Noah on fake death hoax",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_004187,Kendall Jenner Hilariously Responds to Pregnancy Rumors,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_004533,The hopeful message hidden in Drake’s “One Dance.”,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_021831,Vanderpump Rules’ Lala Kent Denies Being a Homewrecker (Again),0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004146,Selena Gomez Delivers Emotional First Performance of 'Wolves' at the AMAs -- Watch!,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009108,"Rachel Weisz, 48, Welcomes a Baby Girl with Husband Daniel Craig, 50: Reports",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_021912,CNN's Anthony Bourdain dead at 61,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_000816,The State of Working America 20067 pdf,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_003097,Caitlyn Jenner to Trump: What happened to your promise to fight for LGBT Americans?,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001674,Angelina Jolie's humanitarian efforts in Cambodia revealed,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_017911,"20-year flashback: Ellen DeGeneres came out, and paved the way for more gay TV roles",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_007710,Jordan Peele and Chelsea Peretti Welcome Son Beaumont,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_009312,Listen to Christina Aguilera’s New Kanye-Produced Song “Maria”,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000729,Card Penalty Fees Soften Slightly In 2010,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_000413,Wake Up America,1,fakenewsnet,politifact,3,False,val
+fakenewsnet_009391,All the Best Looks From the 2018 amfAR Cannes Gala,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005068,Tinashe Slammed For Saying Black Community Won't 'Fully Accept' Her Over Light Skin,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009431,Taylor Swift Teases New Song ‘Ready For It’ on ESPN College Football – Variety,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_014029,Kim and Khloe Kardashian are twinning thanks to their mothers with Bob's hairstyles on Kardashians,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005870,Kim Kardashian NOT Considering Leaving Considering Leaving Kanye West Or Announcing Divorce,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017180,Playboy Bunny’s Giant Rabbit Dies on United Flight,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005860,"Jennifer Aniston Moving To NYC, Where Ex Justin Theroux Resides, To Film New Apple Series",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006693,‘This Is Us’ Midseason Finale Reveals Nicky’s Fate – And It’s Probably Not What You Were Expecting,0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_000282,Lady Gaga Reveals Plan To Cover Her Face Again “Until Trump Gets Fired From Office And I Feel Free Once More”,1,fakenewsnet,politifact,21,False,val
+fakenewsnet_001182,Ben Affleck Reportedly Begging Jennifer Garner For Second Shot At Love: Will She Go Back To Him?,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_008781,8 Cocktails To Make Your Grammys Party Sing,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011579,Everything We Know About Julianne Hough & Brooks Laich's Upcoming Wedding (Hint: It'll Include Lots of Dancing!),0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_010725,These are the 9 highest-paid Victoria's Secret models,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002857,Brad Pitt & Angelina Jolie Gave $8 Mil to Charity,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000840,Administration Is Seeking $700 Billion for Wall Street,0,fakenewsnet,politifact,8,False,val
+fakenewsnet_004370,'The Voice' premiere: Everyone ganged up on Blake Shelton. This might explain why.,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_020771,"Netflix Nabs Ryan Murphy Series ‘The Politician’; Ben Platt Set, Barbra Streisand & Gwyneth Paltrow In Talks To Star",0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_006335,Report: Reese Witherspoon and Meryl Streep Have 'Power Struggle' on 'Big Little Lies' Set,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_017859,‘Bachelor in Paradise’: The 1 Thing Corinne Olympios Wants You to Know About Her Friendship With DeMario Jackson,0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_016307,"Hulu Adds 'Boy Meets World,' 'Home Improvement' to ""TGIF"" Library",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006398,Disneyland Paris Apologizes for Banning Little Boy From 'Princess for a Day' Experience,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005370,Beyoncé's Rep Shuts Down Claim the Mom-to-Be Had Lip Injections While Pregnant: 'You Are the Saddest Individuals',1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_003244,Kylie Jenner and PARTYNEXTDOOR Spotted 'Making Out' at Drake's Party,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013096,"Kanye West returns to Twitter, writing a philosophy book 'in real time'",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001459,"Kylie Jenner & Khloe Kardashian Share Odd Pregnancy Cravings: Peanut Butter, Pickles & More",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005305,Alex Rodriguez Wants Jennifer Lopez To Hang Out Less With Leah Remini,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002815,"Jamie Foxx's Friends Low-Key Think Katie Holmes ""Needs a Makeover"" (EXCLUSIVE)",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002439,Victoria Beckham David Beckham Splitting Over Bella Hadid,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002986,Gwen Stefani on Her Experience in the L.A. Fires,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003455,KUWTK: Kim Kardashian West 'goes blonde' for Kanye West on anniversary,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003636,Keith Urban Buys Nicole Kidman Manhattan Townhouse – Variety,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003015,Kardashians Ink Mega Renewal Deal With E! – Variety,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_008959,Watch Helen Mirren Destroy James Corden in His Fiercest Rap Battle Yet,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002980,Inside Jessica Simpson & Eric Johnson's Unexpected Love Story,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_016265,"Be Careful, Cardi B's Makeup Artist Just Changed the Game With These Tips",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_010662,'Happy Days' star Erin Moran dies at 56,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001640,Sam Shepard dead: Celebrities react,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_018961,Top 10 Celebrity Workouts for a Killer Body,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004577,Is ‘KUWTK’ Producer Ryan Seacrest Leaving For Good? Kris Jenner ‘Terrified’ That He’s Done With The Show,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_001151,Selena Gomez and Justin Bieber baby news,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005592,Bitter Blood! Kim Kardashian In A ‘Jealous Rage’ Over Jennifer Lawrence,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015994,Kate Middleton Shines In Cream Alexander McQueen Dress At Prince Louis Christening,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_012925,How To Find YOUR Perfect Pair Of Overalls,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003416,Is Brad Pitt’s Body Odor Becoming A Problem For Friends Helping Him Through Angelina Jolie Divorce Aftermath,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_018562,Mario Is Officially No Longer A Plumber,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_003427,Fergie Cries While Talking About Josh Duhamel Divorce,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_000373,BREAKING: Hillary Clinton Killed In Monster Truck Mishap,1,fakenewsnet,politifact,8,False,val
+fakenewsnet_001643,15 Celebs Chris Pratt Should Date Instead Of The Mystery Blonde,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_021879,"Before You See Jurassic World: Fallen Kingdom, You Need to Watch This Rap Recap",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_018797,The Dating Game,0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_004067,Khloe Kardashian: Baby Won’t Mend Relationship With Caitlyn Jenner,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002327,Selena Gomez Reunites With David Henrie in First Instagram Story,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001590,Kylie Jenner shares first family photo as she cuddles up with Travis Scott and baby Stormi at elaborate Easter party,1,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_011815,Amber Heard addresses her sexuality: 'I don't identify as anything',0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003119,Kim Kardashian Having Plastic Surgery To Cure Cankles?,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_015148,Selena Wears Selena! Here’s Where You Can Buy A T-Shirt Just Like It,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_006095,Courteney Cox Did Not Go On ‘Tirade’ About Pal Jennifer Aniston [Debunked],1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004913,"Camille Grammer Did Not Leave Louis Vuitton Belt Behind At Airport, Despite Report",1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_014061,RHONY's Carole Radziwill Is All of Us Trying to Order Breakfast,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_022455,Honestly Chic! Shop 15 Outfits from Jessica Alba's California Casual Pregnancy Style,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_016398,Gary Clark Jr. and Nicole Trunfio Welcome Daughter Gia Leblane,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005151,Robert Pattinson Talking About Playing Edward Cullen Video,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005985,"The Real Angelina Jolie, Tom Cruise and Mel Gibson: Former Studio Exec Sherry Lansing Shares Hollywood Secrets",1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_008088,Beyonce has mini Destiny's Child reunion with LaTavia Roberson for first time in 18 years,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003099,Are Justin Bieber & Hailey Baldwin Already Married?: Is She Wearing A Wedding Band?,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005588,Arnold Caitlyn Kiss GIF,1,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_006315,Everything We Know About Justin Bieber and Hailey Baldwin's Wedding,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011360,Beyoncé turned down a role in ‘Beauty and the Beast’,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000545,"Outlook, Office, Skype, Bing, Breaking News, and Latest Videos",0,fakenewsnet,politifact,9,False,val
+fakenewsnet_007867,What Happens at The Abbey recap: The Murray’s a slut and Marissa’s a cheater edition,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005052,Has President Obama made racism worse?,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_018977,Saturday Savings: Olivia Munn's Shearling Jacket Is Now Only $50! - Parker XL,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005376,"Julia Roberts NOT Forcing Danny Moder To Follow Detox Diet, Despite Report",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003162,"Justin Bieber apparently wrote a ‘Love Bible’ about Selena Gomez, and it’s sweet but super weird",1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_015947,Whitney Port goes makeup free in sweats while out and about in Los Angeles with family,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_018745,Julia Louis-Dreyfus’ first post-op photo in her battle with breast cancer is classic Julia,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_010917,Burt Reynolds and Sally Field's Love Story: A Look Back,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020308,The Handmaid's Tale Cast Unwinds on Set With The Bachelor Viewing Parties,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017452,Oscars 2018: Eiza Gonzalez stuns in sunny backless gown,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000464,U.S. Senate: U.S. Senate Roll Call Votes 110th Congress,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_002362,Brad Pitt And Angelina Jolie Still Working Out Divorce As Shiloh Ignores Him In Paris,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_017530,Zayn Malik Shaves His Head Bald,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_006290,Is Bradley Cooper Really Singing in A Star Is Born?,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005082,The Latest: 'Three Billboards' wins best drama film Globe,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002880,Justin Theroux Still 'Heartbroken' Over Jennifer Aniston Split Despite Dating Rumors (Exclusive),1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_009444,Tom Brady eats his 1st strawberry and chugs a beer with Stephen Colbert,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005075,Report: Gwen Stefani Suffered A Miscarriage Four Months Ago — Now She's Considering Adoption,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016165,King Robert Makes His Boldest Power Play Yet on The Royals: Dissolving the Government!,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_021558,"Soaking Up the Sun, Surprise Parties and Plenty of Smooches: Revisit Khloe Kardashian and Tristan Thompson's Most Adorable Moments",0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_015866,Colton Haynes writes heartbreaking post about mother's failing health,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005485,Taylor Swift to Withhold ‘Reputation’ From Streaming Services,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002244,Meghan Markle’s Old Resumé Lists ‘Stripping’ As One Of Her Many Talents,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003003,The Examined Life of Angelina Jolie Pitt,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001588,Gwen Stefani & Blake Shelton: How Janet Jackson Has Inspired Her To Have Another Baby,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_003267,Nicole Kidman on the one thing she and Keith Urban won't do,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_013368,"Richard Simmons ordered to pay $130,000 after transgender lawsuit",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001999,Everything That Has Gone Down Since the Brad Pitt Angelina Jolie Divorce Was Announced,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001979,'Khloe is not a Kardashian': TWO of her father's ex-wives claim he expressed doubts over paternity,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_006821,"4 Times Prince Harry Made Us Swoon at the (Well, His) Royal Wedding",0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009833,What is the meaning of resident doctors?,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_017975,Alden Ehrenreich on playing Han Solo: Harrison Ford taught me 'everything I need to know',0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004356,Nicole Kidman Jennifer Aniston Keith Urban Secret Rendezvous,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_009524,Cardi B Says Motherhood Is Taking a Toll on Her Appearance,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_002107,Katie Holmes and Jamie Foxx's Wedding Will Be Top Secret — Just Like Their Relationship (EXCLUSIVE),1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000145,UsPostman.com is for sale (Us Postman),1,fakenewsnet,politifact,6,False,val
+fakenewsnet_005423,A Timeline of Justin Bieber's Dating History,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000294,"First family visits D.C. shelter, highlights homeless veterans’ plight",1,fakenewsnet,politifact,9,False,val
+fakenewsnet_006252,Brad Pitt Is Being Urged By His Mother Jane To Fight Angelina Jolie For His Children’s Custody,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_002465,Matt Damon’s publicist forced to deny reports actor is moving to Australia because he can't stand Donald Trump,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_017268,Kim Kardashian treads carefully when grilled about Khloe,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001997,Chrissy Teigen Opens Up for the First Time About Her Postpartum Depression,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_014168,"Taylor Swift Is Not Purposely Releasing Reputation on the Death Anniversary of Kanye West's Mom, Says Label",0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_021098,Cole Sprouse and Lili Reinhart in Hawaii January 2018,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_014587,Kendall Jenner Channels Kim Kardashian at the 2018 Met Gala,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_003284,Kate Hudson Reveals She Is Pregnant With Third Child,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005203,Gwen Stefani Forced to Skip Vegas Performance After Rupturing Her Eardrum,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_013607,Taylor Swift’s mysterious social media disappearance prompts a madcap web scavenger hunt,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002774,Rihanna Is Spending BIG Bucks On Her New Wardrobe After Gaining Weight,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003352,Olivia Munn Sets the Record Straight About Justin Theroux Dating Rumors,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_012836,"Gwen Stefani, Blake Shelton Cuddle Up on Lake Vacation in Oklahoma: PICS",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_022182,Daniel Bryan Takes Brie Bella to a Landfill to Show Her the Dangers of Using Plastic Diapers: ''Diapers Take 500 Years to Decompose!'',0,fakenewsnet,gossipcop,23,False,val
+fakenewsnet_000713,U.S. Senator Debbie Stabenow of Michigan,0,fakenewsnet,politifact,6,False,val
+fakenewsnet_022436,Will Smith And Nicky Jam To Perform At World Cup Closing Ceremony,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_020135,Kristen Doute Calls Out Stassi Schroeder for Being M.I.A. Since Getting a Boyfriend,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005056,Robert Pattinson & Kristen Stewart Would ‘Love’ To See A ‘Twilight’ Reboot After 10th Anniversary,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_012576,Jennifer Lopez And Alex Rodriguez' Date Night Outfits,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_022549,Chris Cornell's Wife Shares Emotional Christmas Video of the Late Singer With His Son,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001095,Kylie Jenner Jenner Kris Life Of Kylie,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_020158,"""Lindsay Lohan's Beach Club"" Is Officially Happening",0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_001210,Lena Dunham Gets Affectionate with a New Guy 3 Months After Jack Antonoff Breakup,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002160,Drake Bella Hadid Secretly Dating,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_020147,Big Little Lies’ Massive Emmys Sweep Proves the Power of Female-Fronted Stories,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_020469,Florida Georgia Line Announces Las Vegas Residency Dates,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003894,"Kate Middleton age, children and net worth compared to Meghan Markle",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015429,"Best ever Oscars dresses: from Nicole Kidman in Dior to Keira Knightley in Valentino, we round up the best of the red carpet fashion",0,fakenewsnet,gossipcop,24,False,val
+fakenewsnet_000742,'This Week' Transcript: Gen. Jim Jones (Ret.),0,fakenewsnet,politifact,7,False,val
+fakenewsnet_007163,Watch the exact moment Khloe Kardashian found out she was pregnant on KUWTK,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_019175,"David Schwimmer, Wife Zoe Buckman Taking 'Some Time Apart'",0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003253,Inside Prince Harry's Desperate Search to Find Love,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_020578,Did King Robert Just Sabotage London With a Sinister Blackout on The Royals?!,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000366,Obama’s Tax- Skipping – Audit Shows Millions In Offshore Accounts,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_001505,Scary - Skinny Angie Sick Again!,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_020183,Facts of Life's Mindy Cohn Opens Up About Her 5-Year Fight Against Breast Cancer,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_008449,Three hard lessons about addiction we learned after Mac Miller’s death,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001180,The Scenes From Lifetime's 'Harry and Meghan' Movie That Probably Didn't Happen In Real Life,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010415,Kim Kardashian Returns to Platinum Blonde Hair for Wedding Anniversary: 'It's Kanye's Favorite',0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_007433,Queen Elizabeth and Prince Phillip Celebrated Their 70th Wedding Anniversary With Sweet New Photos,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_011439,Interview with Dr. Darcy Sterling of E!'s Famously Single,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000181,BREAKING: President Trump Just Told Paul Ryan ‘You’re Fired’,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_002119,"No, the Golden Globes Didn't Forget the In Memoriam Segment...It Just Didn't Air on TV",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006129,Twitter community mourns with Lea Michele,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_004502,Miley Cyrus's mom doesn't get why everyone wants her daughter to marry Liam Hemsworth,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002920,Jon Hamm is NOT Stealing Batman Role from Affleck.,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_005410,Neil Patrick Harris' Marriage to David Burtka Is Falling Apart (EXCLUSIVE),1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_005567,Justin Theroux reunites with Sienna Miller at Chaos launch party in New York City,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_013365,Snow Buddies Not Much Fun for Puppies Who Died in Filming,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_022073,Kit Harington Auditions for Six Different Game of Thrones Characters,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000072,CALIFORNIA DEMOCRAT MAXINE WATERS CHARGED ON 3 COUNTS. DO YOU SUPPORT THIS?,1,fakenewsnet,politifact,12,False,val
+fakenewsnet_000319,New Regulation Requires 75 MPH Governor On All Motorcycles,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_010352,Jessica Alba Wears Platform Pumps To Celebrate Baby Shower At Ladurée,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_007167,Ariana Grande Manchester Arena Concert Incident May 2017,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002067,Golden Globes 2018: the complete list of nominees,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_005292,Chelsea Handler Parties With Jennifer Garner After Getting Dumped By Jennifer Aniston – Ben Affleck Worried?,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001374,Anna Faris Focused On Healing Her Broken Heart After Chris Pratt Split — It’s ‘Me Time’,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002501,Selena Gomez Wants To Reconcile With Mom — But Her Relationship With Justin Is Not ‘Up For Debate’,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_007136,Rumer Willis reveals she's 6 months sober: 'Be gentle with yourself',0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006278,Katy Perry Dating Robert Pattinson,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_004284,Lamar Odom Wants to Ruin Khloe Kardashian and Tristan Thompson's Wedding,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_008777,Hugh Jackman Teases His Halloween Costume – It’s Wolverine Centric!,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_006357,Rihanna wants to get together with Chris Brown and I’m irrationally upset about it,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016372,The Blow Dry Cream Responsible for Kaia Gerber's Runway Hair,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_002042,Selena Gomez: I've Never Had a Problem With Drinking,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_007799,Tom Cruise made a terrified James Corden skydive for the first time on 'The Late Late Show',0,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_004118,Parading Patriots! Jennifer Garner and Her Kids Ride Atop a Truck During Fourth of July Parade,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_013273,The Bold Type Recap: A Good Triangle,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000212,UPDATE: Malia Obama Among 10 Arrested In Racist Antifa Attack,1,fakenewsnet,politifact,10,False,val
+fakenewsnet_000619,U.S. Senator John McCain,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_013310,Website tidak ditemukan,0,fakenewsnet,gossipcop,3,False,val
+fakenewsnet_020219,"Get the Oscar Looks for Less: Jennifer Garner, Emma Stone and More - Parker XL",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001381,What’s a ‘Covfefe’? Trump Tweet Unites a Bewildered Nation,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_009387,"She-Ra Remake Coming to Netflix, And It's Not Alone--Get the Scoop on TV's Reboots and Revivals",0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_019451,Jason Bateman Closes Deal for 'Arrested Development' Season 5 at Netflix,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001682,Here Is The Truth Weather Jennifer And Brad Buying “Dream Home” Together Or Not! – Alivetales,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_000060,Head Of NFL Fines Steeler Teammates $1 MILLION Each!,1,fakenewsnet,politifact,9,False,val
+fakenewsnet_004440,Leap Of Faith! Blake Shelton Converts Religions For Gwen Stefani,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005665,Are Stella Maxwell & Kristen Stewart Still Dating? Here's Everything We Know,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004847,Caitlyn Jenner: Becoming woman harder than anything,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_009916,Bridget Marquardt hasn’t seen Hugh Hefner in years,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001408,Jamie Foxx walks out on ESPN interview after Katie Holmes relationship questions,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_004706,Blac Chyna Says Kardashians Conspired to Cancel Her Show,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003479,Caitlyn Jenner Reportedly Wants Kim Kardashian’s Surrogate To Carry A Baby For Her,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_022749,"Rob Kardashian’s Daughter Dream Says ”Hi, Dad!” in Sweet Video",0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_020490,"Conrad Hilton handed $5,000 fine and ordered to carry out community service after in-flight outburst",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_021059,Jennifer Lawrence Responds to Austria Dance Video,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_000654,H1N1 vaccinations to be offered to Guantanamo Bay detainees,0,fakenewsnet,politifact,9,False,val
+fakenewsnet_004252,Kourtney Kardashian Picks Kylie Jenner’s Lip Kit Over Kim Kardashian's Contour Sticks,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006953,Riverdale: Clifford Blossom Killed Jason Blossom,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003726,Ben Affleck & Lindsay Shookus: Planning a Wedding Even Though He's Still Married?!,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_001613,Blake & Gwen Quitting Hollywood & Moving to Midwest After Miscarriage Nightmare,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001291,"Angelina Jolie’s ‘Secret Shopping Fix’ Is Not Target, Source Says",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_016203,Jennifer Lopez Has Some Advice for Beyoncé About Raising Twins,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_001910,"Fans Think Kylie Jenner Looks Like ""Old Kylie"" After She Removes All Her Filler",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_000410,International Arrest Warrant Issued for George Soros,1,fakenewsnet,politifact,7,False,val
+fakenewsnet_012185,Maluma and Girlfriend Natalia Barulich Get Matching Bracelets With a Special Meaning,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_003927,Hollywood Celebrates Harvey Weinstein Academy Expulsion With Online Glee,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_006316,Here Are All The Things Caitlyn Jenner Says About Kris Jenner In Her Book,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002342,Restaurant review: Stanley’s gets a second look and comes up smelling of roses,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005094,Justin Bieber ‘dating Hailee Steinfeld’,1,fakenewsnet,gossipcop,5,False,val
+fakenewsnet_007414,Joey Lawrence and Wife Sold Clothes Before Filing for Bankruptcy,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_008917,"'Glee' actor Mark Salling, who pleaded guilty to child porn, found dead by apparent suicide",0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010515,Lily-Rose Depp Poses Topless Just in Time to Turn 18,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005475,David and Victoria Beckham living apart? What's really going on,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_011140,Lauren Conrad Flaunts Her Bump While Thanking Her Friends for Throwing Her a Baby Shower,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_007554,Chris Evans and Jenny Slate broke up again — and it proves why you should never get back together with your ex,0,fakenewsnet,gossipcop,22,False,val
+fakenewsnet_003626,Jennifer Lopez Shoots Down Alex Rodriguez Engagement Rumors,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_007075,12 celebrity brides who wore unconventional wedding dresses,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_018055,'The Talk' sees panel shakeup as Eve replaces Aisha Tyler,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_010269,"When Zach Braff Crashed Sarah Chalke's Interview: Scrubs Revival Talk, Alex, Inc. and Roseanne Jokes and More - Parker XL",0,fakenewsnet,gossipcop,20,False,val
+fakenewsnet_018794,Olivia Culpo and Danny Amendola Split After He's Seen With Another Woman,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000871,President Barack Obama in Portsmouth Town Hall,0,fakenewsnet,politifact,7,False,val
+fakenewsnet_004916,Is Taylor Swift Engaged? Latest Quotes Reveal Joe Alwyn Is 'The One',1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_006262,Twilight Saga movie props are going up for auction,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001893,Kim Kardashian: Desperate to Take Down Kylie Jenner?!,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_003215,"Gavin Rossdale: ‘If you divorce America's sweetheart, you're in trouble’",1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_013197,Fergie Rocks Her Performance During the 2017 Miss Universe Pageant's Evening Gown Competition,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_012190,2018 TV Couples March Madness Challenge: Vote In The Elite 8!,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006332,Angelina Jolie Refuses To ‘Shy Away’ from Jennifer Aniston at Golden Globes If They Run Into Each Other,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_001487,Kylie Jenner is hit with split claims from Travis Scott,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_021588,Taylor Swift Teases New Song 'Gorgeous' Dropping at Midnight -- Listen!,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015124,"2018 TV Pilot Casting To Get Excited About: Katie Holmes, Magnum, P.I. And More on ZIG",0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_008488,Michael Jackson musical coming to Broadway in 2020,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_002229,"Jennifer Aniston Did Not Get $200,000 In Cosmetic Procedures After Justin Theroux Split [Debunked]",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_017988,Kelly Clarkson Channels a Dark Queen at Billboard Music Awards 2018,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_012331,John Stamos — Host of PBS’s Annual Broadcast of A Capitol Fourth —Calls Fatherhood 'a Dream',0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_003672,Everything Miranda Lambert and Blake Shelton Have Said About Their Divorce,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_018849,"DJ Khaled, Chance, Justin Bieber, Quavo Share Video for New Song “No Brainer”: Watch",0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002587,Kylie Jenner & Travis Scott Fighting Over Baby Names: She’s ‘Set’ On Her Choice & Pushing Him Away,1,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_004768,Why Angelina Jolie Could Lose Custody of Her Kids to Brad Pitt (Report),1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_005951,Katy Perry Accidentally Let It Slip That She's Dating Orlando Bloom ... Again,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_014839,Do You Have to Wait Until After Memorial Day to Wear White?,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_020407,Jennifer Lopez says she and boyfriend Alex Rodriguez 'butt heads' but fuels engagement speculation,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_007960,Reese Witherspoon and Other Victims of Celeb Photoshop Fails,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_019055,Gigi Hadid’s Cowboy Boots Were Made for Strutting,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_017358,"Cheryl Burke, Matthew Lawrence Share Engagement Party Pics",0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_004820,Bradley Cooper And Model Fiancee Irina Shayk Welcomed Their First Child,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_004456,Are Gwen Stefani & Blake Shelton Engaged In 2017? The Couple Has Been Going Strong For Years,1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_003156,Brad Pitt 'hasn't reached out to Jennifer Aniston' about marriage woes,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006032,Younes Bendjima ‘Desperate’ To Fix Things With Kourtney Kardashian After ‘Rude’ IG Comment,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_016383,Rihanna Debuts New Bob Haircut for Summer,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005825,"What Kanye West Said About Slavery, Obama and Mental Health in His New Interviews",1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_003292,Liev Schreiber hugs Minnie Driver’s sister at Oscars party,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_016393,MTV’s TRL Revival Adds 3 New Faces–Including Gigi Gorgeous,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_001401,Miley Cyrus Says She Respects 'ALL Artists Who Speak Their Truth' After Negative Rap Comments,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_006239,Jennifer Aniston 'knew it was a matter of time before ex-husband Brad Pitt split from Angelina Jolie',1,fakenewsnet,gossipcop,17,False,val
+fakenewsnet_017529,Watch Chewbacca Smack A Porg In The Latest Star Wars: The Last Footage,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_000579,McCain spoke up early,0,fakenewsnet,politifact,4,False,val
+fakenewsnet_002404,Meghan Markle and Prince Harry: Royal wedding started family feud,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005036,"A History of Kanye West's, Kardashians’ Feuds With Amber Rose, Blac Chyna",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_017632,Billy Joel Has Made $35 Million This Year Alone,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_000422,WORSE THAN HITLER! Trey Gowdy’s Son Found In A Dumpster In DC! Murders Are Being Questioned!,1,fakenewsnet,politifact,16,False,val
+fakenewsnet_002236,Meryl Streep slams 'disgraceful' Harvey Weinstein over sexual abuse allegations,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005536,Heres your first terrifying look at Zac Efron as a serial killer Ted Bundy,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_007166,Nikki Bella Reportedly Joining “Dancing with the Stars”,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_001803,Miley Cyrus and Liam Hemsworth Relationship Timeline,1,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005807,"Kristen Stewart and Robert Pattinson, 5 Years Later: How They Bounced Back After the Affair",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_005478,Kylie Jenner ‘Pleading’ With Travis Scott To Ditch Vegas & Spend New Year’s With Her,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_013999,"Hear What William Hung, Ruben Studdard and More American Idol Alums Are Up to in This Hilarious Song",0,fakenewsnet,gossipcop,18,False,val
+fakenewsnet_019368,John Stamos' fiancee debuts baby bump on Instagram — see the pic,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001767,Kris Jenner and Corey Gamble Call It Quits After Three Years Together (EXCLUSIVE),1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_009328,Every time James Corden and stars have battled to 'Drop the Mic',0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_002931,Miley Cyrus and Liam Hemsworth Wedding Rumors Fueled by Matching Rings,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_014274,Pauley Perrette Implies She Left N.C.I.S. After “Multiple Physical Assaults”,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_012084,Supergirl Recap: The Danvers Sisters Go Back to “Midvale”,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_003538,"A Detailed History of Selena Gomez and Justin Bieber’s On-Again, Off-Again Relationship",1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001919,Tom Cruise ‘Envious’ And ‘Furious’ Over Katie Holmes And Jamie Foxx? Doesn’t Look Like It,1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_001188,"Ben Affleck Was on a 'Bender' Before Jennifer Garner Took Him to Rehab, Source Says",1,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_010747,The Mindy Project: “Danny And Mindy”,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_006100,Kendall Jenner Caught Kissing And Straddling Anwar Hadid For Two Hours Following CFDA Awards,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_016468,Nico Tortorella comes out as gender-fluid and gets full drag makeover,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_001544,‘Palace confirms: Meghan Markle and Kate Middleton both pregnant’,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002622,Prince Harry proposed to Meghan Markle on 'cozy' night while roasting chicken,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_018382,Paris Jackson Goes Topless During Spiritual Retreat,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_005246,"Tom Cruise Upset About Katie Holmes, Jamie Foxx “Romance Going Public”?",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_003041,"Taylor Swift alleged stalker arrested with knife, rope outside singer’s home",1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_010651,Michael Phelps and Wife Nicole Throw Shower for ' ' No. 2,0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_022137,John Krasinski Found Out He Didn't Get the Role of Captain America on Emily Blunt's Birthday,0,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_002819,Joaquin Phoenix Wants Rooney Mara’s Family To Stop NFL From Using Leather Footballs?,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_019854,Why I’m Obsessed with the Outlander Theme Song,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_021232,‘American Idol’ Winners: Where Are They Now?,0,fakenewsnet,gossipcop,7,False,val
+fakenewsnet_020257,Inside Gabrielle Union and Dwyane Wade's Wedding Day,0,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_011875,‘Ant-Man and the Wasp’ Trailer: Paul Rudd and Evangeline Lilly Team Up to Show the Power of Superhero Bugs,0,fakenewsnet,gossipcop,19,False,val
+fakenewsnet_016757,George Clooney Speaks Out on Harvey Weinstein: ‘It’s Disturbing on a Whole Lot of Levels’,0,fakenewsnet,gossipcop,15,False,val
+fakenewsnet_004601,Selena Gomez Hoping Justin Bieber Will Spend Christmas With Her & Her Family,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_003040,Russell Crowe slams claims he's 'dating' Sophia Forrest,1,fakenewsnet,gossipcop,8,False,val
+fakenewsnet_009590,The 7 Best Peel-Off Charcoal Masks,0,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_018510,Brad Pitt and Angelina Jolie: A Timeline of Their Relationship,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_005092,The Real Oscars Showdown Is Going To Be Between Angelina Jolie And Jennifer Aniston,1,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_001850,Angelina Jolie has Google alert on Brad Pitt's name,1,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_004997,O.J. Courting ‘Dancing With The Stars’,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_003282,Kris Jenner Asks Kardashian Sisters to Save Failing ‘Life of Kylie’ — Report,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_021972,"A Day In The Life Of Kylie Jenner's BFF, Model Jordyn Woods",0,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_001424,Gwen Stefani Top Of 2017 Expecting Twins With Blake Shelton,1,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_008408,You can get free McDonald's fries every Friday for the rest of year,0,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_016350,Grey's Anatomy season 14 finale to feature Jo and Alex's wedding,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_006077,Hugh Jackman Plans To Get Fat Now That He’s Done Playing Wolverine,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000502,2008 Presidential Election,0,fakenewsnet,politifact,3,False,val
+fakenewsnet_005912,Deep Throat - Download HQ Porn,1,fakenewsnet,gossipcop,6,False,val
+fakenewsnet_006396,Ed Sheeran says he broke his arm in bike accident,0,fakenewsnet,gossipcop,10,False,val
+fakenewsnet_000686,"Remarks by the President at Campaign Event -- Colorado Springs, CO",0,fakenewsnet,politifact,11,False,val
+fakenewsnet_001264,Brad Pitt Upset Over Angelina Jolie’s Rumored Plans To Adopt? — Would He Adopt Again Too?,1,fakenewsnet,gossipcop,16,False,val
+fakenewsnet_001343,Selena Gomez & Justin Bieber Have 'Epic' New Year's Eve Plans,1,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_014938,Lindsey Vonn Wins Bronze Medal In Downhill At Pyeongchang Winter Olympics,0,fakenewsnet,gossipcop,11,False,val
+fakenewsnet_015022,Jackson Van De Kamp,0,fakenewsnet,gossipcop,4,False,val
+fakenewsnet_000818,Trump on Prejean: Same as Obama,0,fakenewsnet,politifact,6,False,val
+fakenewsnet_009660,Mamma Mia! Here We Go Again Review Roundup: A Catapulting Role for Lily James,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_004714,Kim and Khloe Kardashian Come For Younes Bendjima After Kourtney Breakup Drama,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_000292,BREAKING: President Trump Signs Executive Order Stripping NFL Of ‘Non-Profit’ Status,1,fakenewsnet,politifact,11,False,val
+fakenewsnet_020466,‘The resemblance is crazy!’: Louis Tomlinson fans gush over rare picture of son Freddie,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_005290,TBT: See Photos of Paris Hilton and Kim Kardashian When They Were Friends,1,fakenewsnet,gossipcop,13,False,val
+fakenewsnet_018972,Daily latest categorised real time breaking World News Updates,0,fakenewsnet,gossipcop,9,False,val
+fakenewsnet_002733,Miley Cyrus Pregnancy: The singer wants to have baby with Liam Hemsworth?,1,fakenewsnet,gossipcop,12,False,val
+fakenewsnet_011974,Busy Philipps says this one subject will be off-limits on her new late-night show,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_020505,Simone Biles Fully Shut Down a Hater Who Called Her a “Sucky Role Model”,0,fakenewsnet,gossipcop,14,False,val
+fakenewsnet_002378,Spooky Sounds & Strange Shadows! Keith & Nicole’s Dream Home Haunted By King Of Pop,1,fakenewsnet,gossipcop,15,False,val

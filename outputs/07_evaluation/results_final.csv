@@ -1,0 +1,6 @@
+system,liar,welfake,covid,fakenewsnet,mean over datasets
+Final ensemble,0.4638,0.9737,0.7923,0.5257,0.6889
+liar expert alone (DistilBERT),0.6352,0.4811,0.657,0.3527,0.5315
+welfake expert alone (DistilBERT),0.4716,0.9798,0.4707,0.4385,0.5902
+covid expert alone (DistilBERT),0.5426,0.3331,0.9583,0.37,0.551
+fakenewsnet expert alone (DistilBERT),0.438,0.5463,0.6472,0.7876,0.6048

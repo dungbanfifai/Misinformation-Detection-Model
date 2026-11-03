@@ -1,0 +1,11 @@
+data/raw
+outputs/04_features/
+*.npz
+*.npy
+bert_checkpoints_*/
+*.zip
+kaggle.json
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc

@@ -1,0 +1,23 @@
+{
+  "experts": {
+    "liar": "distilbert",
+    "welfake": "distilbert",
+    "covid": "distilbert",
+    "fakenewsnet": "distilbert"
+  },
+  "order": [
+    "liar",
+    "welfake",
+    "covid",
+    "fakenewsnet"
+  ],
+  "combiner": "blender",
+  "weights": {
+    "liar": 0.6605,
+    "welfake": 0.9764,
+    "covid": 0.9446,
+    "fakenewsnet": 0.7968
+  },
+  "blender_file": "blender.joblib",
+  "chosen_by": "validation macro F1 averaged over the four datasets"
+}

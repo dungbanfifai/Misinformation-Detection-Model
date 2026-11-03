@@ -1,0 +1,81 @@
+model,trained_on,tested_on,macro_F1
+Logistic Regression,liar,liar,0.6265
+Logistic Regression,liar,welfake,0.5528
+Logistic Regression,liar,covid,0.6068
+Logistic Regression,liar,fakenewsnet,0.4816
+Logistic Regression,welfake,liar,0.434
+Logistic Regression,welfake,welfake,0.956
+Logistic Regression,welfake,covid,0.3655
+Logistic Regression,welfake,fakenewsnet,0.3769
+Logistic Regression,covid,liar,0.5441
+Logistic Regression,covid,welfake,0.5125
+Logistic Regression,covid,covid,0.9309
+Logistic Regression,covid,fakenewsnet,0.4789
+Logistic Regression,fakenewsnet,liar,0.4273
+Logistic Regression,fakenewsnet,welfake,0.5606
+Logistic Regression,fakenewsnet,covid,0.5272
+Logistic Regression,fakenewsnet,fakenewsnet,0.7765
+Complement NB,liar,liar,0.6259
+Complement NB,liar,welfake,0.3695
+Complement NB,liar,covid,0.6388
+Complement NB,liar,fakenewsnet,0.4943
+Complement NB,welfake,liar,0.5035
+Complement NB,welfake,welfake,0.8897
+Complement NB,welfake,covid,0.5857
+Complement NB,welfake,fakenewsnet,0.5036
+Complement NB,covid,liar,0.5254
+Complement NB,covid,welfake,0.3313
+Complement NB,covid,covid,0.9218
+Complement NB,covid,fakenewsnet,0.4488
+Complement NB,fakenewsnet,liar,0.465
+Complement NB,fakenewsnet,welfake,0.485
+Complement NB,fakenewsnet,covid,0.5528
+Complement NB,fakenewsnet,fakenewsnet,0.7745
+Linear SVM,liar,liar,0.6194
+Linear SVM,liar,welfake,0.5331
+Linear SVM,liar,covid,0.6034
+Linear SVM,liar,fakenewsnet,0.451
+Linear SVM,welfake,liar,0.4415
+Linear SVM,welfake,welfake,0.956
+Linear SVM,welfake,covid,0.3647
+Linear SVM,welfake,fakenewsnet,0.3889
+Linear SVM,covid,liar,0.5458
+Linear SVM,covid,welfake,0.5255
+Linear SVM,covid,covid,0.9308
+Linear SVM,covid,fakenewsnet,0.4754
+Linear SVM,fakenewsnet,liar,0.4202
+Linear SVM,fakenewsnet,welfake,0.5599
+Linear SVM,fakenewsnet,covid,0.5216
+Linear SVM,fakenewsnet,fakenewsnet,0.7745
+LightGBM,liar,liar,0.6382
+LightGBM,liar,welfake,0.4235
+LightGBM,liar,covid,0.5898
+LightGBM,liar,fakenewsnet,0.3846
+LightGBM,welfake,liar,0.5011
+LightGBM,welfake,welfake,0.9534
+LightGBM,welfake,covid,0.3849
+LightGBM,welfake,fakenewsnet,0.3492
+LightGBM,covid,liar,0.5852
+LightGBM,covid,welfake,0.4374
+LightGBM,covid,covid,0.9115
+LightGBM,covid,fakenewsnet,0.3942
+LightGBM,fakenewsnet,liar,0.4024
+LightGBM,fakenewsnet,welfake,0.5976
+LightGBM,fakenewsnet,covid,0.5178
+LightGBM,fakenewsnet,fakenewsnet,0.7751
+DistilBERT,liar,liar,0.6352
+DistilBERT,liar,welfake,0.4811
+DistilBERT,liar,covid,0.657
+DistilBERT,liar,fakenewsnet,0.3527
+DistilBERT,welfake,liar,0.4716
+DistilBERT,welfake,welfake,0.9798
+DistilBERT,welfake,covid,0.4707
+DistilBERT,welfake,fakenewsnet,0.4385
+DistilBERT,covid,liar,0.5426
+DistilBERT,covid,welfake,0.3331
+DistilBERT,covid,covid,0.9583
+DistilBERT,covid,fakenewsnet,0.37
+DistilBERT,fakenewsnet,liar,0.438
+DistilBERT,fakenewsnet,welfake,0.5463
+DistilBERT,fakenewsnet,covid,0.6472
+DistilBERT,fakenewsnet,fakenewsnet,0.7876

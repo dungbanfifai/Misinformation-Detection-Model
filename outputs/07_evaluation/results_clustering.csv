@@ -1,0 +1,9 @@
+dataset,method,clusters,silhouette (higher better),Davies-Bouldin (lower better)
+liar,K-Means,10,0.0206,4.9674
+liar,Gaussian Mixture,10,-0.0004,10.4611
+welfake,K-Means,2,0.0466,4.9695
+welfake,Gaussian Mixture,2,0.0152,12.0444
+covid,K-Means,10,0.0332,4.7807
+covid,Gaussian Mixture,10,0.0084,6.89
+fakenewsnet,K-Means,10,0.0394,4.2808
+fakenewsnet,Gaussian Mixture,10,0.0024,10.3367

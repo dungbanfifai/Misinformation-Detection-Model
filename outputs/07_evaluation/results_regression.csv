@@ -1,0 +1,5 @@
+model,MAE,RMSE,R2,within_1_level_%
+Dummy (mean),1.347,1.56,-0.0,37.031
+Ridge,1.254,1.492,0.086,42.76
+LightGBM regressor,1.263,1.504,0.07,43.021
+Average (Ridge + LightGBM),1.249,1.484,0.094,43.021
